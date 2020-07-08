@@ -1,0 +1,943 @@
+﻿ID,sex,age,City of being infected,City of being officially reported,Time of being infected L,Time of being infected R,Time of leaving the infecting city,Time of arriving at the reporting city,Time of going the infecting city,Time of returning to the reporting city,Time of symptom onset,Time of being officially reported,Infected by,Generation number
+Singapore-1,Male,66,China-Wuhan,Singapore,,,2020/1/20,2020/1/20,,,2020/1/21,2020/1/23,,0
+Singapore-2,Female,53,China-Wuhan,Singapore,,,2020/1/21,2020/1/21,,,2020/1/21,2020/1/24,,0
+Singapore-3,Male,37,China-Wuhan,Singapore,,,2020/1/20,2020/1/20,,,2020/1/23,2020/1/24,,0
+Singapore-4,Male,36,China-Wuhan,Singapore,,,2020/1/22,2020/1/22,,,2020/1/23,2020/1/26,,0
+Singapore-5,Female,56,China-Wuhan,Singapore,,,2020/1/18,2020/1/18,,,2020/1/24,2020/1/27,,0
+Singapore-6,Male,56,China-Wuhan,Singapore,,,2020/1/19,2020/1/19,,,2020/1/25,2020/1/28,,0
+Singapore-7,Male,35,China-Wuhan,Singapore,,,2020/1/23,2020/1/23,,,2020/1/24,2020/1/28,,0
+Singapore-8,Female,56,China-Wuhan,Singapore,,,2020/1/19,2020/1/19,,,2020/1/24,2020/1/29,,0
+Singapore-9,Male,56,China-Wuhan,Singapore,,,2020/1/19,2020/1/19,,,2020/1/24,2020/1/29,,0
+Singapore-10,Male,56,China-Wuhan,Singapore,,,2020/1/20,2020/1/20,,,2020/1/21,2020/1/29,,0
+Singapore-11,Female,31,China-Wuhan,Singapore,,,2020/1/22,2020/1/22,,,2020/1/27,2020/1/30,,0
+Singapore-12,Female,37,China-Wuhan,Singapore,,,2020/1/22,2020/1/22,,,2020/1/26,2020/1/30,,0
+Singapore-13,Female,73,China-Wuhan,Singapore,,,2020/1/21,2020/1/21,,,2020/1/28,2020/1/30,,0
+Singapore-14,Male,31,China-Wuhan,Singapore,,,2020/1/26,2020/1/26,,,2020/1/28,2020/1/31,,0
+Singapore-15,Female,47,China-Wuhan,Singapore,,,,,2020/1/24,2020/1/30,2020/1/30,2020/1/31,,0
+Singapore-16,Male,38,China-Wuhan,Singapore,,,2020/1/22,2020/1/22,,,2020/1/23,2020/1/31,,0
+Singapore-17,Female,47,China-Wuhan,Singapore,,,,,2020/1/25,2020/1/30,2020/1/30,2020/2/1,,0
+Singapore-18,Female,31,China-Wuhan,Singapore,,,2020/1/22,2020/1/22,,,2020/1/30,2020/2/1,,0
+Singapore-19,Female,28,Singapore,Singapore,,,,,,,2020/1/29,2020/2/4,,1
+Singapore-20,Female,48,Singapore,Singapore,,,,,,,2020/1/25,2020/2/4,,1
+Singapore-21,Female,44,Singapore,Singapore,,,,,,,2020/2/2,2020/2/4,Singapore-19;,2
+Singapore-22,,41,China-Wuhan,Singapore,,,,,,,2020/2/4-,2020/2/4,,0
+Singapore-23,,17,China-Wuhan,Singapore,,,,,,,2020/2/4-,2020/2/4,,0
+Singapore-24,Female,32,Singapore,Singapore,,,,,,,2020/2/4,2020/2/4,Singapore-25;,3+
+Singapore-25,Male,40,Singapore,Singapore,,,,,,,2020/1/24,2020/2/5,,2+
+Singapore-26,Female,42,China-Wuhan,Singapore,,,2020/1/21,2020/1/21,,,2020/2/5-,2020/2/5,,0
+Singapore-27,Male,45,Singapore,Singapore,,,,,,,2020/2/1,2020/2/5,Singapore-19;,2
+Singapore-28,Male,1,Singapore,Singapore,,,,,,,2020/2/5-,2020/2/5,Singapore-19;,2
+Singapore-29,Male,41,Singapore,Singapore,,,,,,,2020/1/28,2020/2/6,,1+
+Singapore-30,Male,27,Singapore,Singapore,2020/1/20,2020/1/22,,,,,2020/1/21,2020/2/6,,2+
+Singapore-31,Male,53,Singapore,Singapore,2020/1/19,2020/1/19,,,,,2020/1/23,2020/2/7,Singapore-8;Singapore-9;,1
+Singapore-32,Female,42,Singapore,Singapore,,,,,,,2020/2/2,2020/2/7,,1+
+Singapore-33,Female,39,Singapore,Singapore,2020/1/19,2020/1/19,,,,,2020/1/30,2020/2/7,Singapore-8;Singapore-9;,1
+Singapore-34,Female,40,Singapore,Singapore,,,,,,,2020/1/27,2020/2/8,Singapore-19;Singapore-20;,2
+Singapore-35,Male,64,Singapore,Singapore,,,,,,,2020/1/30,2020/2/8,,1+
+Singapore-36,Female,38,Singapore,Singapore,2020/1/20,2020/1/22,,,,,2020/1/24,2020/2/8,,2+
+Singapore-37,Male,53,Singapore,Singapore,,,,,,,2020/1/30,2020/2/8,,1+
+Singapore-38,Female,52,Singapore,Singapore,,,,,,,2020/2/3,2020/2/8,,2+
+Singapore-39,Male,51,Singapore,Singapore,,,,,,,2020/1/29,2020/2/8,,2+
+Singapore-40,Male,36,Singapore,Singapore,,,,,,,2020/1/30,2020/2/8,Singapore-19;Singapore-20;,2
+Singapore-41,Male,71,Singapore,Singapore,,,,,,,2020/2/1,2020/2/9,,1+
+Singapore-42,Male,39,Singapore,Singapore,,,,,,,2020/2/1,2020/2/9,,2+
+Singapore-43,Male,54,Malaysia,Singapore,,,,,2020/1/26,2020/1/26,2020/1/30,2020/2/9,,0
+Singapore-44,Male,37,Singapore,Singapore,,,,,,,2020/1/31,2020/2/10,Singapore-13;Singapore-26;,1
+Singapore-45,Female,2,China-Wuhan,Singapore,,,,,2020/1/30,2020/1/30,2020/2/7,2020/2/10,,0
+Singapore-46,Male,35,Singapore,Singapore,,,,,,,2020/2/5,2020/2/11,,1+
+Singapore-47,Male,39,Singapore,Singapore,,,,,,,2020/2/6,2020/2/11,Singapore-42;,3+
+Singapore-48,Male,34,Malaysia,Singapore,,,,,2020/1/26,2020/1/26,2020/2/1,2020/2/12,,0
+Singapore-49,Male,46,Singapore,Singapore,,,,,,,2020/2/3,2020/2/12,,2+
+Singapore-50,Male,62,Singapore,Singapore,,,,,,,2020/2/7,2020/2/12,,1+
+Singapore-51,Male,48,Singapore,Singapore,,,,,,,2020/2/4,2020/2/13,,2+
+Singapore-52,Male,37,Singapore,Singapore,,,,,,,2020/2/7,2020/2/13,Singapore-42;Singapore-47;,3+
+Singapore-53,Male,54,Singapore,Singapore,,,,,,,2020/2/10,2020/2/13,,2+
+Singapore-54,Female,55,Singapore,Singapore,,,,,,,2020/2/10,2020/2/13,,2+
+Singapore-55,Male,30,Singapore,Singapore,,,,,,,2020/2/3,2020/2/13,Singapore-50;,2+
+Singapore-56,Male,30,Singapore,Singapore,,,,,,,2020/2/12,2020/2/13,Singapore-47;,4+
+Singapore-57,Male,26,Singapore,Singapore,,,,,,,2020/2/11,2020/2/13,,2+
+Singapore-58,Male,55,Singapore,Singapore,,,,,,,2020/2/10,2020/2/13,,2+
+Singapore-59,Male,61,Singapore,Singapore,,,,,,,2020/2/7,2020/2/14,,1+
+Singapore-60,Female,51,Singapore,Singapore,,,,,,,2020/2/8,2020/2/14,,2+
+Singapore-61,Male,57,Singapore,Singapore,,,,,,,2020/2/6,2020/2/14,,2+
+Singapore-62,Female,62,Singapore,Singapore,,,,,,,2020/2/9,2020/2/14,,2+
+Singapore-63,Female,63,Singapore,Singapore,,,,,,,2020/2/10,2020/2/14,,2+
+Singapore-64,Male,50,Singapore,Singapore,,,,,,,2020/2/3,2020/2/14,,1+
+Singapore-65,Female,61,Singapore,Singapore,,,,,,,2020/2/12,2020/2/14,Singapore-50;Singapore-55;,2+
+Singapore-66,Male,28,Singapore,Singapore,2020/1/25,2020/1/25,,,,,2020/1/29,2020/2/14,Singapore-83;Singapore-91;,2
+Singapore-67,Female,56,Singapore,Singapore,,,,,,,2020/2/9,2020/2/14,Singapore-61;,3+
+Singapore-68,Female,79,Singapore,Singapore,,,,,,,2020/1/30,2020/2/15,Singapore-66;,3
+Singapore-69,Male,26,Singapore,Singapore,,,,,,,2020/2/14,2020/2/15,Singapore-42;Singapore-47;Singapore-52;Singapore-56;,3+
+Singapore-70,Female,27,Singapore,Singapore,,,,,,,2020/2/3,2020/2/15,Singapore-66;,3
+Singapore-71,Male,25,Singapore,Singapore,,,,,,,2020/2/1,2020/2/15,Singapore-66;,3
+Singapore-72,Male,40,Singapore,Singapore,,,,,,,2020/2/10,2020/2/15,Singapore-59;,2+
+Singapore-73,Male,43,Singapore,Singapore,,,,,,,2020/2/9,2020/2/16,Singapore-51;,3+
+Singapore-74,Female,29,Singapore,Singapore,,,,,,,2020/2/12,2020/2/16,,2+
+Singapore-75,Female,71,Singapore,Singapore,,,,,,,2020/2/16-,2020/2/16,Singapore-41;,2+
+Singapore-76,Male,1,China-Wuhan,Singapore,,,,,2020/2/9,2020/2/9,2020/2/17-,2020/2/17,,0
+Singapore-77,Male,77,Singapore,Singapore,,,,,,,2020/2/10,2020/2/17,Singapore-50;,2+
+Singapore-78,Female,57,Singapore,Singapore,,,,,,,2020/2/9,2020/2/18,,2+
+Singapore-79,Female,35,Singapore,Singapore,,,,,,,2020/2/12,2020/2/18,Singapore-72;,3+
+Singapore-80,Female,38,Singapore,Singapore,,,,,,,2020/2/4,2020/2/18,Singapore-66;,3
+Singapore-81,Male,50,Singapore,Singapore,,,,,,,2020/2/16,2020/2/18,,2+
+Singapore-82,Female,57,Singapore,Singapore,,,,,,,2020/2/9,2020/2/19,,1+
+Singapore-83,Male,54,Singapore,Singapore,2020/1/19,2020/1/19,,,,,2020/1/28,2020/2/19,Singapore-8;Singapore-9;,1
+Singapore-84,Female,35,Singapore,Singapore,,,,,,,2020/2/4,2020/2/19,Singapore-66;,3
+Singapore-85,Male,36,Singapore,Singapore,,,,,,,2020/2/14,2020/2/20,,1+
+Singapore-86,Male,24,Singapore,Singapore,,,,,,,2020/2/14,2020/2/21,Singapore-82;,2+
+Singapore-87,,,Singapore,Singapore,,,,,,,2020/2/22-,2020/2/22,,1+
+Singapore-88,,,Singapore,Singapore,,,,,,,2020/2/22-,2020/2/22,,2+
+Singapore-89,Male,41,Singapore,Singapore,,,,,,,2020/2/3,2020/2/22,,1+
+Singapore-90,Female,75,Singapore,Singapore,2020/1/19,2020/1/19,,,,,2020/2/9,2020/2/24,Singapore-8;Singapore-9;,1
+Singapore-91,Female,58,Singapore,Singapore,2020/1/19,2020/1/19,,,,,2020/1/23,2020/2/25,Singapore-8;Singapore-9;,1
+Singapore-92,Male,47,Singapore,Singapore,,,,,,,2020/2/17,2020/2/26,,1+
+Singapore-93,Male,38,Singapore,Singapore,,,,,,,2020/2/17,2020/2/26,,2+
+Singapore-94,Female,64,Singapore,Singapore,,,,,,,2020/2/11,2020/2/27,,2+
+Singapore-95,Male,44,Singapore,Singapore,,,,,,,2020/2/22,2020/2/27,Singapore-93;,3+
+Singapore-96,Male,12,Singapore,Singapore,2020/2/15,2020/2/15,,,,,2020/2/21,2020/2/27,Singapore-94;,3+
+Singapore-97,Female,44,Singapore,Singapore,,,,,,,2020/2/20,2020/2/28,,2+
+Singapore-98,Male,24,Singapore,Singapore,,,,,,,2020/2/27,2020/2/28,,2+
+Singapore-99,Male,27,Singapore,Singapore,,,,,,,2020/2/21,2020/2/29,Singapore-93;,3+
+Singapore-100,Male,20,Singapore,Singapore,,,,,,,2020/2/27,2020/2/29,Singapore-93;,3+
+Singapore-101,Male,61,Singapore,Singapore,,,,,,,2020/2/25,2020/2/29,Singapore-93;,3+
+Singapore-102,Female,41,Singapore,Singapore,,,,,,,2020/2/25,2020/2/29,Singapore-93;,3+
+Singapore-103,Female,37,Singapore,Singapore,,,,,,,2020/2/29,2020/3/1,Singapore-93;,3+
+Singapore-104,Female,25,Singapore,Singapore,,,,,,,2020/2/23,2020/3/1,Singapore-93;,3+
+Singapore-105,Male,49,Singapore,Singapore,,,,,,,2020/2/26,2020/3/1,,2+
+Singapore-106,Male,54,Singapore,Singapore,,,,,,,2020/2/23,2020/3/1,,2+
+Singapore-107,Female,68,Singapore,Singapore,2020/2/15,2020/2/15,,,,,2020/2/16,2020/3/2,Singapore-94;,3+
+Singapore-108,Female,34,Singapore,Singapore,,,,,,,2020/2/25,2020/3/2,Singapore-101;,4+
+Singapore-109,Male,70,Singapore,Singapore,,,,,,,2020/2/25,2020/3/3,,1+
+Singapore-110,Male,33,Singapore,Singapore,,,,,,,2020/2/22,2020/3/3,Singapore-93;,3+
+Singapore-111,Male,43,Malaysia,Singapore,,,,,2020/2/18,2020/2/21,2020/2/24,2020/3/4,,0
+Singapore-112,Female,62,Singapore,Singapore,2020/2/15,2020/2/15,,,,,2020/2/21,2020/3/4,Singapore-94;,3+
+Singapore-113,Male,42,France,Singapore,,,,,2020/2/8,2020/3/3,2020/3/3,2020/3/5,,0
+Singapore-114,Male,62,Singapore,Singapore,,,,,,,2020/2/28,2020/3/5,,2+
+Singapore-115,Female,62,Singapore,Singapore,2020/2/15,2020/2/15,,,,,2020/2/26,2020/3/5,Singapore-94;,3+
+Singapore-116,Female,50,Singapore,Singapore,2020/2/15,2020/2/15,,,,,2020/2/29,2020/3/5,Singapore-94;,3+
+Singapore-117,Female,52,Singapore,Singapore,2020/2/15,2020/2/15,,,,,2020/3/2,2020/3/5,Singapore-94;,3+
+Singapore-118,Female,33,Singapore,Singapore,,,,,,,2020/2/29,2020/3/6,Singapore-115;,4+
+Singapore-119,Male,55,Singapore,Singapore,,,,,,,2020/2/27,2020/3/6,,1+
+Singapore-120,Female,62,Singapore,Singapore,2020/2/15,2020/2/15,,,,,2020/3/2,2020/3/6,Singapore-94;,3+
+Singapore-121,Female,54,Singapore,Singapore,2020/2/15,2020/2/15,,,,,2020/2/26,2020/3/6,Singapore-94;,3+
+Singapore-122,Female,64,Singapore,Singapore,,,,,,,2020/3/3,2020/3/6,Singapore-117;,4+
+Singapore-123,Male,47,France,Singapore,,,,,2020/2/22,2020/2/24,2020/2/27,2020/3/6,,0
+Singapore-124,Female,37,Germany,Singapore,,,,,2020/2/27,2020/3/5,2020/3/5,2020/3/6,,0
+Singapore-125,Female,65,Singapore,Singapore,2020/2/15,2020/2/15,,,,,2020/3/5,2020/3/6,Singapore-94;,3+
+Singapore-126,Male,77,Singapore,Singapore,2020/2/29,2020/3/1,,,,,2020/3/5,2020/3/6,Singapore-109;,2+
+Singapore-127,Female,64,Singapore,Singapore,,,,,,,2020/3/5,2020/3/6,Singapore-117;,4+
+Singapore-128,Male,70,Singapore,Singapore,2020/2/15,2020/2/15,,,,,2020/3/5,2020/3/6,Singapore-94;,3+
+Singapore-129,Female,68,Singapore,Singapore,2020/2/15,2020/2/15,,,,,2020/3/2,2020/3/6,Singapore-94;,3+
+Singapore-130,Male,66,Singapore,Singapore,,,,,,,2020/2/24,2020/3/6,Singapore-129;,4+
+Singapore-131,Male,66,Singapore,Singapore,,,,,,,2020/3/2,2020/3/7,,2+
+Singapore-132,Female,37,United Kingdom,Singapore,,,,,2020/2/23,2020/2/27,2020/2/29,2020/3/7,,0
+Singapore-133,Female,62,Singapore,Singapore,,,,,,,2020/2/29,2020/3/7,,2+
+Singapore-134,Female,56,Singapore,Singapore,,,,,,,2020/2/28,2020/3/7,,2+
+Singapore-135,Male,40,Singapore,Singapore,,,,,,,2020/2/26,2020/3/7,,1+
+Singapore-136,Male,36,Italy,Singapore,,,,,2020/2/23,2020/2/29,2020/3/1,2020/3/7,,0
+Singapore-137,Male,60,Singapore,Singapore,,,,,,,2020/3/5,2020/3/7,,2+
+Singapore-138,Male,26,Singapore,Singapore,,,,,,,2020/3/6,2020/3/7,Singapore-66;Singapore-83;Singapore-91;,2
+Singapore-139,Male,71,Singapore,Singapore,,,,,,,2020/3/8-,2020/3/8,,2+
+Singapore-140,Female,62,Singapore,Singapore,,,,,,,2020/2/28,2020/3/8,,2+
+Singapore-141,Male,69,Singapore,Singapore,,,,,,,2020/3/1,2020/3/8,,1+
+Singapore-142,Male,26,Singapore,Singapore,,,,,,,2020/3/5,2020/3/8,,2+
+Singapore-143,Male,42,Singapore,Singapore,,,,,,,2020/3/5,2020/3/8,Singapore-132;,1
+Singapore-144,Female,58,Singapore,Singapore,,,,,,,2020/3/3,2020/3/8,Singapore-140;,3+
+Singapore-145,Female,67,Singapore,Singapore,,,,,,,2020/2/29,2020/3/8,Singapore-134;,3+
+Singapore-146,Female,64,Singapore,Singapore,,,,,,,2020/3/4,2020/3/8,Singapore-134;,3+
+Singapore-147,Male,64,Indonesia,Singapore,,,2020/3/7,2020/3/7,,,2020/3/3,2020/3/8,,0
+Singapore-148,Female,67,Singapore,Singapore,,,,,,,2020/2/24,2020/3/8,Singapore-107;,4+
+Singapore-149,Male,62,Singapore,Singapore,,,,,,,2020/2/23,2020/3/8,,2+
+Singapore-150,Female,53,Singapore,Singapore,,,,,,,2020/2/29,2020/3/8,Singapore-115;Singapore-134;,3+
+Singapore-151,Male,51,Singapore,Singapore,,,,,,,2020/2/4,2020/3/9,Singapore-66;Singapore-91;,2
+Singapore-152,Male,65,Indonesia,Singapore,,,2020/3/7,2020/3/7,,,2020/2/28,2020/3/9,,0
+Singapore-153,Female,65,Indonesia,Singapore,,,,,2020/2/25,2020/2/28,2020/3/3,2020/3/9,,0
+Singapore-154,Male,52,United Kingdom,Singapore,,,,,2020/2/26,2020/3/5,2020/3/8,2020/3/9,,0
+Singapore-155,Female,47,Singapore,Singapore,,,,,,,2020/3/4,2020/3/9,Singapore-128;,4+
+Singapore-156,Female,50,Singapore,Singapore,,,,,,,2020/3/7,2020/3/9,,2+
+Singapore-157,Female,54,Singapore,Singapore,,,,,,,2020/3/8,2020/3/9,Singapore-137;,3+
+Singapore-158,Female,53,Singapore,Singapore,,,,,,,2020/3/5,2020/3/9,,2+
+Singapore-159,Male,59,Singapore,Singapore,,,,,,,2020/3/5,2020/3/9,,2+
+Singapore-160,Male,5,Singapore,Singapore,,,,,,,2020/3/7,2020/3/9,Singapore-145;,4+
+Singapore-161,Male,73,Singapore,Singapore,,,,,,,2020/2/27,2020/3/10,Singapore-107;,4+
+Singapore-162,Male,28,Singapore,Singapore,,,,,,,2020/3/7,2020/3/10,Singapore-142;,3+
+Singapore-163,Female,27,Singapore,Singapore,,,,,,,2020/3/8,2020/3/10,Singapore-142;,3+
+Singapore-164,Female,57,Singapore,Singapore,,,,,,,2020/3/8,2020/3/10,Singapore-134;,3+
+Singapore-165,Male,30,France,Singapore,,,,,2020/2/15,2020/3/7,2020/3/9,2020/3/10,,0
+Singapore-166,Female,55,Singapore,Singapore,,,,,,,2020/3/4,2020/3/10,Singapore-134;,3+
+Singapore-167,Female,35,Philippines,Singapore,,,,,2020/2/11,2020/2/17,2020/3/8,2020/3/11,,0
+Singapore-168,Male,47,Singapore,Singapore,,,,,,,2020/3/1,2020/3/11,,1+
+Singapore-169,Male,40,France,Singapore,,,,,2020/2/15,2020/3/7,2020/3/9,2020/3/11,,0
+Singapore-170,Female,56,Indonesia,Singapore,,,2020/3/9,2020/3/9,,,2020/3/6,2020/3/11,,0
+Singapore-171,Male,27,Spain,Singapore,,,,,2020/2/25,2020/3/1,2020/3/9,2020/3/11,,0
+Singapore-172,Female,42,Philippines,Singapore,,,,,2020/2/27,2020/3/2,2020/3/5,2020/3/11,,0
+Singapore-173,Male,31,France,Singapore,,,,,2020/2/15,2020/3/7,2020/3/9,2020/3/11,,0
+Singapore-174,Female,67,Singapore,Singapore,,,,,,,2020/3/7,2020/3/11,Singapore-122;,5+
+Singapore-175,Male,44,France,Singapore,,,,,2020/2/15,2020/3/7,2020/3/10,2020/3/11,,0
+Singapore-176,Female,37,Japan,Singapore,,,,,2020/2/24,2020/3/4,2020/3/7,2020/3/11,,0
+Singapore-177,Male,26,Europe,Singapore,,,,,2020/2/28,2020/3/7,2020/3/9,2020/3/11,,0
+Singapore-178,Male,37,Philippines,Singapore,,,,,2020/2/11,2020/2/19,2020/3/8,2020/3/11,,0
+Singapore-179,Female,66,Singapore,Singapore,,,,,,,2020/2/27,2020/3/12,Singapore-121;,4+
+Singapore-180,Male,71,United States,Singapore,,,,,,,2020/3/10,2020/3/12,,0
+Singapore-181,Male,83,Indonesia,Singapore,,,2020/3/9,2020/3/9,,,2020/3/8,2020/3/12,,0
+Singapore-182,Female,76,Indonesia,Singapore,,,2020/3/9,2020/3/9,,,2020/3/9,2020/3/12,,0
+Singapore-183,Male,29,Malaysia,Singapore,,,,,2020/2/29,2020/3/4,2020/3/6,2020/3/12,,0
+Singapore-184,Male,35,Philippines,Singapore,,,,,2020/2/24,2020/3/1,2020/3/9,2020/3/12,,0
+Singapore-185,Male,34,Singapore,Singapore,,,,,,,2020/3/7,2020/3/12,Singapore-142;,3+
+Singapore-186,Male,64,Singapore,Singapore,,,,,,,2020/3/5,2020/3/12,Singapore-166;,4+
+Singapore-187,Male,48,Malaysia,Singapore,,,,,2020/2/28,2020/3/2,2020/3/4,2020/3/12,,0
+Singapore-188,Male,53,Thailand,Singapore,,,,,2020/2/23,2020/3/1,2020/3/7,2020/3/13,,0
+Singapore-189,Male,36,India,Singapore,,,,,,,2020/3/11,2020/3/13,,0
+Singapore-190,Male,53,Singapore,Singapore,,,,,,,2020/3/10,2020/3/13,Singapore-172;,1
+Singapore-191,Female,24,Germany,Singapore,,,,,2020/2/24,2020/2/28,2020/3/9,2020/3/13,,0
+Singapore-192,Male,32,United States,Singapore,,,2020/3/10,2020/3/10,,,2020/3/11,2020/3/13,,0
+Singapore-193,Male,26,Europe,Singapore,,,,,2020/3/1,2020/3/10,2020/3/12,2020/3/13,,0
+Singapore-194,Female,24,Europe,Singapore,,,,,2020/3/1,2020/3/10,2020/3/8,2020/3/13,,0
+Singapore-195,Male,47,United States,Singapore,,,,,2020/2/4,2020/3/9,2020/3/6,2020/3/13,,0
+Singapore-196,Female,73,Singapore,Singapore,,,,,,,2020/3/3,2020/3/13,Singapore-107;Singapore-148;,4+
+Singapore-197,Male,30,Malaysia,Singapore,,,,,2020/2/28,2020/3/2,2020/3/4,2020/3/13,,0
+Singapore-198,Female,61,Singapore,Singapore,,,,,,,2020/3/7,2020/3/13,,1+
+Singapore-199,Male,37,Malaysia,Singapore,,,,,2020/2/26,2020/3/2,2020/3/3,2020/3/13,,0
+Singapore-200,Female,62,Singapore,Singapore,,,,,,,2020/3/12,2020/3/13,Singapore-165;,1
+Singapore-201,Female,52,Singapore,Singapore,,,,,,,2020/3/5,2020/3/14,,2+
+Singapore-202,Male,44,Malaysia,Singapore,,,,,2020/2/28,2020/3/3,2020/3/3,2020/3/14,,0
+Singapore-203,Female,36,Indonesia,Singapore,,,,,2020/3/6,2020/3/8,2020/3/11,2020/3/14,,0
+Singapore-204,Male,32,Japan,Singapore,,,,,2020/2/29,2020/3/8,2020/3/11,2020/3/14,,0
+Singapore-205,Female,30,Philippines,Singapore,,,,,2020/2/27,2020/3/6,2020/3/8,2020/3/14,,0
+Singapore-206,Female,33,United States,Singapore,,,,,2020/2/28,2020/3/13,2020/3/12,2020/3/14,,0
+Singapore-207,Female,40,United Kingdom,Singapore,,,,,2020/3/6,2020/3/11,2020/3/10,2020/3/14,,0
+Singapore-208,Female,26,Singapore,Singapore,,,,,,,2020/3/3,2020/3/14,,2+
+Singapore-209,Female,32,United States,Singapore,,,,,2020/3/2,2020/3/7,2020/3/11,2020/3/14,,0
+Singapore-210,Male,56,Europe,Singapore,,,,,2020/2/27,2020/3/10,2020/3/13,2020/3/14,,0
+Singapore-211,Female,35,Singapore,Singapore,,,,,,,2020/3/13,2020/3/14,Singapore-142;,3+
+Singapore-212,Male,64,Indonesia,Singapore,,,2020/3/13,2020/3/13,,,2020/3/9,2020/3/14,,0
+Singapore-213,Male,48,Indonesia,Singapore,,,,,2020/3/4,2020/3/13,2020/3/8,2020/3/15,,0
+Singapore-214,Male,29,Singapore,Singapore,,,,,,,2020/3/5,2020/3/15,Singapore-208;,3+
+Singapore-215,Male,65,Thailand,Singapore,,,,,2020/3/7,2020/3/10,2020/3/13,2020/3/15,,0
+Singapore-216,Male,30,Europe,Singapore,,,,,2020/2/28,2020/3/5,2020/3/9,2020/3/15,,0
+Singapore-217,Male,22,Spain,Singapore,,,,,2020/3/9,2020/3/13,2020/3/13,2020/3/15,,0
+Singapore-218,Female,55,Singapore,Singapore,,,,,,,2020/3/2,2020/3/15,,2+
+Singapore-219,Male,30,Singapore,Singapore,,,,,,,2020/3/13,2020/3/15,Singapore-142;Singapore-211;,3+
+Singapore-220,Male,53,France,Singapore,,,,,2020/3/10,2020/3/12,2020/3/12,2020/3/15,,0
+Singapore-221,Female,28,Singapore,Singapore,,,,,,,2020/3/11,2020/3/15,Singapore-204;,1
+Singapore-222,Male,41,Europe,Singapore,,,,,2020/2/28,2020/3/10,2020/3/13,2020/3/15,,0
+Singapore-223,Male,60,United States,Singapore,,,,,2020/2/28,2020/3/7,2020/3/13,2020/3/15,,0
+Singapore-224,Male,50,Singapore,Singapore,,,,,,,2020/3/13,2020/3/15,Singapore-117;,4+
+Singapore-225,Male,63,Indonesia,Singapore,,,,,2020/3/3,2020/3/7,2020/3/9,2020/3/15,,0
+Singapore-226,Male,49,Netherlands,Singapore,,,,,2020/2/29,2020/3/13,2020/3/12,2020/3/15,,0
+Singapore-227,Male,53,France,Singapore,,,,,2020/3/7,2020/3/12,2020/3/11,2020/3/16,,0
+Singapore-228,Male,67,Singapore,Singapore,,,,,,,2020/3/3,2020/3/16,,1+
+Singapore-229,Female,26,Spain,Singapore,,,,,2020/2/14,2020/3/14,2020/3/15,2020/3/16,,0
+Singapore-230,Female,38,Europe,Singapore,,,,,2020/3/3,2020/3/14,2020/3/14,2020/3/16,,0
+Singapore-231,Male,78,United States,Singapore,,,,,2020/2/23,2020/3/14,2020/3/4,2020/3/16,,0
+Singapore-232,Female,65,United States,Singapore,,,,,2020/2/23,2020/3/14,2020/3/2,2020/3/16,,0
+Singapore-233,Male,61,United Kingdom,Singapore,,,,,2020/3/6,2020/3/14,2020/3/15,2020/3/16,,0
+Singapore-234,Female,86,Singapore,Singapore,,,,,,,2020/2/18,2020/3/16,,1+
+Singapore-235,Female,31,Singapore,Singapore,,,,,,,2020/3/11,2020/3/16,Singapore-208;,3+
+Singapore-236,Female,30,Singapore,Singapore,,,,,,,2020/3/10,2020/3/16,Singapore-142;Singapore-211;,3+
+Singapore-237,Female,37,Singapore,Singapore,,,,,,,2020/3/12,2020/3/16,Singapore-225;,1
+Singapore-238,Female,83,Belgium,Singapore,,,2020/3/6,2020/3/6,,,2020/3/14,2020/3/16,,0
+Singapore-239,Male,28,France,Singapore,,,,,2020/3/7,2020/3/14,2020/3/14,2020/3/16,,0
+Singapore-240,Male,27,Spain,Singapore,,,,,2020/3/7,2020/3/14,2020/3/14,2020/3/16,,0
+Singapore-241,Male,28,France,Singapore,,,,,2020/3/7,2020/3/14,2020/3/11,2020/3/16,,0
+Singapore-242,Female,64,Singapore,Singapore,,,,,,,2020/3/14,2020/3/16,Singapore-166;,4+
+Singapore-243,Male,36,Europe,Singapore,,,,,2020/2/26,2020/3/14,2020/3/11,2020/3/16,,0
+Singapore-244,Male,53,Europe,Singapore,,,,,2020/2/26,2020/3/14,2020/3/7,2020/3/17,,0
+Singapore-245,Male,76,Singapore,Singapore,,,,,,,2020/3/12,2020/3/17,,1+
+Singapore-246,Male,39,Japan,Singapore,,,,,2020/2/23,2020/3/7,2020/3/9,2020/3/17,,0
+Singapore-247,Male,41,Europe,Singapore,,,,,2020/3/5,2020/3/12,2020/3/16,2020/3/17,,0
+Singapore-248,Female,23,Malaysia,Singapore,,,,,2020/3/12,2020/3/13,2020/3/17-,2020/3/17,,0
+Singapore-249,Male,42,United States,Singapore,,,,,2020/3/4,2020/3/16,2020/3/17-,2020/3/17,,0
+Singapore-250,Male,28,Europe,Singapore,,,,,2020/2/29,2020/3/14,2020/3/17-,2020/3/17,,0
+Singapore-251,Female,59,Singapore,Singapore,,,,,,,2020/3/17-,2020/3/17,Singapore-186;,5+
+Singapore-252,Male,66,Malaysia,Singapore,,,,,2020/2/25,2020/2/29,2020/3/17-,2020/3/17,,0
+Singapore-253,Male,24,Spain,Singapore,,,,,2020/3/12,2020/3/16,2020/3/17-,2020/3/17,,0
+Singapore-254,Female,43,France,Singapore,,,,,2020/2/22,2020/3/13,2020/3/17-,2020/3/17,,0
+Singapore-255,Male,44,Europe,Singapore,,,,,2020/3/1,2020/3/9,2020/3/17-,2020/3/17,,0
+Singapore-256,Female,32,Singapore,Singapore,,,,,,,2020/3/17-,2020/3/17,Singapore-205;,1
+Singapore-257,Male,19,United Kingdom,Singapore,,,2020/3/14,2020/3/14,,,2020/3/17-,2020/3/17,,0
+Singapore-258,Male,47,Europe,Singapore,,,,,2020/3/9,2020/3/15,2020/3/17-,2020/3/17,,0
+Singapore-259,Female,30,Philippines,Singapore,,,,,2020/3/7,2020/3/9,2020/3/17-,2020/3/17,,0
+Singapore-260,Female,48,Singapore,Singapore,,,,,,,2020/3/17-,2020/3/17,,1+
+Singapore-261,Male,30,Europe&United States,Singapore,,,,,2020/2/23,2020/3/15,2020/3/17-,2020/3/17,,0
+Singapore-262,Female,20,United Kingdom,Singapore,,,,,2020/2/18,2020/3/16,2020/3/17-,2020/3/17,,0
+Singapore-263,Female,53,Europe,Singapore,,,,,2020/3/6,2020/3/14,2020/3/17-,2020/3/17,,0
+Singapore-264,Female,41,Indonesia,Singapore,,,2020/3/16,2020/3/16,,,2020/3/17-,2020/3/17,,0
+Singapore-265,Female,25,United Kingdom,Singapore,,,,,2020/3/6,2020/3/14,2020/3/17-,2020/3/17,,0
+Singapore-266,Male,63,Spain,Singapore,,,,,2020/3/6,,2020/3/17-,2020/3/17,,0
+Singapore-267,Female,72,Indonesia,Singapore,,,,,,,2020/3/17-,2020/3/17,,0
+Singapore-268,Male,64,Europe,Singapore,,,,,,,2020/3/17-,2020/3/17,,0
+Singapore-269,Female,19,United Kingdom,Singapore,,,,,,,2020/3/17-,2020/3/17,,0
+Singapore-270,Female,62,Europe,Singapore,,,,,,,2020/3/17-,2020/3/17,,0
+Singapore-271,Male,29,United Kingdom,Singapore,,,,,,,2020/3/17-,2020/3/17,,0
+Singapore-272,Male,65,Europe,Singapore,,,,,,,2020/3/17-,2020/3/17,,0
+Singapore-273,Male,69,Singapore,Singapore,,,,,,,2020/3/17-,2020/3/17,,1+
+Singapore-274,Male,50,United States,Singapore,,,,,,,2020/3/17-,2020/3/17,,0
+Singapore-275,Male,27,Indonesia,Singapore,,,,,,,2020/3/17-,2020/3/17,,0
+Singapore-276,Male,21,United Kingdom,Singapore,,,,,,,2020/3/17-,2020/3/17,,0
+Singapore-277,Male,55,United States,Singapore,,,,,,,2020/3/17-,2020/3/17,,0
+Singapore-278,Female,48,United States,Singapore,,,,,,,2020/3/17-,2020/3/17,,0
+Singapore-279,Male,71,Philippines,Singapore,,,,,,,2020/3/17-,2020/3/17,,0
+Singapore-280,Female,21,United Kingdom,Singapore,,,,,,,2020/3/17-,2020/3/17,,0
+Singapore-281,Male,46,United States,Singapore,,,,,,,2020/3/17-,2020/3/17,,0
+Singapore-282,Male,76,France,Singapore,,,,,,,2020/3/17-,2020/3/17,,0
+Singapore-283,Female,62,Singapore,Singapore,,,,,,,2020/3/17-,2020/3/17,Singapore-144;Singapore-208;Singapore-214;Singapore-235;,3+
+Singapore-284,Male,32,United States,Singapore,,,,,,,2020/3/17-,2020/3/17,,0
+Singapore-285,Female,42,Thailand,Singapore,,,,,,,2020/3/17-,2020/3/17,,0
+Singapore-286,Male,54,United Kingdom,Singapore,,,,,,,2020/3/17-,2020/3/17,,0
+Singapore-287,Male,25,Singapore,Singapore,,,,,,,2020/3/17-,2020/3/17,Singapore-267;,1
+Singapore-288,Male,71,Singapore,Singapore,,,,,,,2020/3/18-,2020/3/18,,1+
+Singapore-289,Male,62,Singapore,Singapore,,,,,,,2020/3/18-,2020/3/18,Singapore-212;,1
+Singapore-290,Male,69,Singapore,Singapore,,,,,,,2020/3/18-,2020/3/18,,1+
+Singapore-291,Male,52,Singapore,Singapore,,,,,,,2020/3/18-,2020/3/18,Singapore-260;,2+
+Singapore-292,Female,64,Turkey,Singapore,,,,,,,2020/3/18-,2020/3/18,,0
+Singapore-293,Male,30,United Kingdom,Singapore,,,,,,,2020/3/18-,2020/3/18,,0
+Singapore-294,Female,58,Singapore,Singapore,,,,,,,2020/3/18-,2020/3/18,Singapore-225;Singapore-237;,1
+Singapore-295,Male,55,United States,Singapore,,,,,,,2020/3/18-,2020/3/18,,0
+Singapore-296,Female,25,United Kingdom,Singapore,,,,,,,2020/3/18-,2020/3/18,,0
+Singapore-297,Male,31,Indonesia,Singapore,,,,,,,2020/3/18-,2020/3/18,,0
+Singapore-298,Male,44,India,Singapore,,,,,,,2020/3/18-,2020/3/18,,0
+Singapore-299,Male,29,Philippines,Singapore,,,,,,,2020/3/18-,2020/3/18,,0
+Singapore-300,Male,28,Europe,Singapore,,,,,,,2020/3/18-,2020/3/18,,0
+Singapore-301,Male,63,Europe,Singapore,,,,,,,2020/3/18-,2020/3/18,,0
+Singapore-302,Female,49,Singapore,Singapore,,,,,,,2020/3/18-,2020/3/18,,1+
+Singapore-303,Male,27,Singapore,Singapore,,,,,,,2020/3/18-,2020/3/18,Singapore-248;,1
+Singapore-304,Female,27,Europe,Singapore,,,,,,,2020/3/18-,2020/3/18,,0
+Singapore-305,Male,24,Singapore,Singapore,,,,,,,2020/3/18-,2020/3/18,Singapore-142;,3+
+Singapore-306,Male,56,United Kingdom,Singapore,,,,,,,2020/3/18-,2020/3/18,,0
+Singapore-307,Female,22,Philippines,Singapore,,,,,,,2020/3/18-,2020/3/18,,0
+Singapore-308,Male,59,United States,Singapore,,,,,,,2020/3/18-,2020/3/18,,0
+Singapore-309,Male,60,Europe,Singapore,,,,,,,2020/3/18-,2020/3/18,,0
+Singapore-310,Male,58,Singapore,Singapore,,,,,,,2020/3/18-,2020/3/18,Singapore-183;Singapore-252;,1
+Singapore-311,Female,80,Singapore,Singapore,,,,,,,2020/3/18-,2020/3/18,Singapore-234;,2+
+Singapore-312,Male,30,Europe,Singapore,,,,,,,2020/3/18-,2020/3/18,,0
+Singapore-313,Male,39,United Kingdom,Singapore,,,,,,,2020/3/18-,2020/3/18,,0
+Singapore-314,Male,58,Singapore,Singapore,,,,,,,2020/3/18-,2020/3/18,,1+
+Singapore-315,Male,57,United Kingdom,Singapore,,,,,,,2020/3/18-,2020/3/18,,0
+Singapore-316,Male,25,Malaysia,Singapore,,,,,,,2020/3/18-,2020/3/18,,0
+Singapore-317,Male,29,United Kingdom,Singapore,,,,,,,2020/3/18-,2020/3/18,,0
+Singapore-318,Female,58,Singapore,Singapore,,,,,,,2020/3/18-,2020/3/18,,1+
+Singapore-319,Female,67,Philippines,Singapore,,,,,,,2020/3/18-,2020/3/18,,0
+Singapore-320,Male,34,United Kingdom,Singapore,,,,,,,2020/3/18-,2020/3/18,,0
+Singapore-321,Female,65,Singapore,Singapore,,,,,,,2020/3/18-,2020/3/18,,1+
+Singapore-322,Female,46,Europe,Singapore,,,,,,,2020/3/18-,2020/3/18,,0
+Singapore-323,Male,24,United Kingdom,Singapore,,,,,,,2020/3/18-,2020/3/18,,0
+Singapore-324,Male,45,United Kingdom,Singapore,,,,,,,2020/3/18-,2020/3/18,,0
+Singapore-325,Male,38,United Kingdom,Singapore,,,,,,,2020/3/19-,2020/3/19,,0
+Singapore-326,Male,33,Europe,Singapore,,,,,,,2020/3/19-,2020/3/19,,0
+Singapore-327,Male,38,Europe,Singapore,,,,,,,2020/3/19-,2020/3/19,,0
+Singapore-328,Female,63,Europe,Singapore,,,,,,,2020/3/19-,2020/3/19,,0
+Singapore-329,Male,64,Turkey,Singapore,,,,,,,2020/3/19-,2020/3/19,,0
+Singapore-330,Male,67,Singapore,Singapore,,,,,,,2020/3/19-,2020/3/19,,1+
+Singapore-331,Female,49,United Kingdom,Singapore,,,,,,,2020/3/19-,2020/3/19,,0
+Singapore-332,Female,36,United Kingdom,Singapore,,,,,,,2020/3/19-,2020/3/19,,0
+Singapore-333,Male,48,United States,Singapore,,,,,,,2020/3/19-,2020/3/19,,0
+Singapore-334,Female,32,United States,Singapore,,,,,,,2020/3/19-,2020/3/19,,0
+Singapore-335,Male,57,Singapore,Singapore,,,,,,,2020/3/19-,2020/3/19,Singapore-234;,2+
+Singapore-336,Male,60,Singapore,Singapore,,,,,,,2020/3/19-,2020/3/19,,1+
+Singapore-337,Male,31,Europe,Singapore,,,,,,,2020/3/19-,2020/3/19,,0
+Singapore-338,Male,57,Singapore,Singapore,,,,,,,2020/3/19-,2020/3/19,,1+
+Singapore-339,Male,66,Philippines,Singapore,,,,,,,2020/3/19-,2020/3/19,,0
+Singapore-340,Male,27,Philippines,Singapore,,,,,,,2020/3/19-,2020/3/19,,0
+Singapore-341,Male,31,United Kingdom,Singapore,,,,,,,2020/3/19-,2020/3/19,,0
+Singapore-342,Male,31,Thailand,Singapore,,,,,,,2020/3/19-,2020/3/19,,0
+Singapore-343,Female,20,United Kingdom,Singapore,,,,,,,2020/3/19-,2020/3/19,,0
+Singapore-344,Female,21,United Kingdom,Singapore,,,,,,,2020/3/19-,2020/3/19,,0
+Singapore-345,Male,30,Singapore,Singapore,,,,,,,2020/3/19-,2020/3/19,,2+
+Singapore-346,Male,59,India,Singapore,,,,,,,2020/3/19-,2020/3/19,,0
+Singapore-347,Male,27,United Kingdom,Singapore,,,,,,,2020/3/19-,2020/3/19,,0
+Singapore-348,Female,51,Singapore,Singapore,,,,,,,2020/3/19-,2020/3/19,Singapore-227;,1
+Singapore-349,Male,21,United Kingdom,Singapore,,,,,,,2020/3/19-,2020/3/19,,0
+Singapore-350,Male,61,Singapore,Singapore,,,,,,,2020/3/19-,2020/3/19,,1+
+Singapore-351,Male,51,Indonesia,Singapore,,,,,,,2020/3/19-,2020/3/19,,0
+Singapore-352,Male,43,Europe,Singapore,,,,,,,2020/3/19-,2020/3/19,,0
+Singapore-353,Male,23,Singapore,Singapore,,,,,,,2020/3/19-,2020/3/19,Singapore-177;,1
+Singapore-354,Male,59,United Kingdom,Singapore,,,,,,,2020/3/19-,2020/3/19,,0
+Singapore-355,Male,38,United Kingdom,Singapore,,,,,,,2020/3/19-,2020/3/19,,0
+Singapore-356,Male,27,India,Singapore,,,,,,,2020/3/19-,2020/3/19,,0
+Singapore-357,Male,41,Europe&United States,Singapore,,,,,,,2020/3/19-,2020/3/19,,0
+Singapore-358,Female,39,Singapore,Singapore,,,,,,,2020/3/19-,2020/3/19,,1+
+Singapore-359,Female,45,Singapore,Singapore,,,,,,,2020/3/19-,2020/3/19,Singapore-321;,2+
+Singapore-360,Male,26,United Kingdom,Singapore,,,,,,,2020/3/19-,2020/3/19,,0
+Singapore-361,Male,32,Singapore,Singapore,,,,,,,2020/3/19-,2020/3/19,Singapore-318;,2+
+Singapore-362,Female,45,Europe,Singapore,,,,,,,2020/3/19-,2020/3/19,,0
+Singapore-363,Male,49,United Kingdom,Singapore,,,,,,,2020/3/19-,2020/3/19,,0
+Singapore-364,Male,52,Singapore,Singapore,,,,,,,2020/3/20-,2020/3/20,Singapore-225;,1
+Singapore-365,Male,33,Europe,Singapore,,,,,,,2020/3/20-,2020/3/20,,0
+Singapore-366,Female,26,Europe,Singapore,,,,,,,2020/3/20-,2020/3/20,,0
+Singapore-367,Male,25,Singapore,Singapore,,,,,,,2020/3/20-,2020/3/20,Singapore-338;,2+
+Singapore-368,Female,19,Singapore,Singapore,,,,,,,2020/3/20-,2020/3/20,Singapore-225;Singapore-294;,1
+Singapore-369,Male,34,Thailand,Singapore,,,,,,,2020/3/20-,2020/3/20,,0
+Singapore-370,Male,73,Indonesia,Singapore,,,,,,,2020/3/20-,2020/3/20,,0
+Singapore-371,Male,22,United Kingdom,Singapore,,,,,,,2020/3/20-,2020/3/20,,0
+Singapore-372,Female,22,United Kingdom,Singapore,,,,,,,2020/3/20-,2020/3/20,,0
+Singapore-373,Male,51,United Kingdom,Singapore,,,,,,,2020/3/20-,2020/3/20,,0
+Singapore-374,Female,23,United Kingdom,Singapore,,,,,,,2020/3/20-,2020/3/20,,0
+Singapore-375,Female,25,United States,Singapore,,,,,,,2020/3/20-,2020/3/20,,0
+Singapore-376,Female,21,United Kingdom,Singapore,,,,,,,2020/3/20-,2020/3/20,,0
+Singapore-377,Male,59,United Kingdom,Singapore,,,,,,,2020/3/20-,2020/3/20,,0
+Singapore-378,Male,38,United Kingdom,Singapore,,,,,,,2020/3/20-,2020/3/20,,0
+Singapore-379,Male,62,Indonesia,Singapore,,,,,,,2020/3/20-,2020/3/20,,0
+Singapore-380,Male,34,Switzerland,Singapore,,,,,,,2020/3/20-,2020/3/20,,0
+Singapore-381,Female,27,Spain,Singapore,,,,,,,2020/3/20-,2020/3/20,,0
+Singapore-382,Female,55,United Kingdom,Singapore,,,,,,,2020/3/20-,2020/3/20,,0
+Singapore-383,Female,42,United Kingdom,Singapore,,,,,,,2020/3/20-,2020/3/20,,0
+Singapore-384,Male,65,Singapore,Singapore,,,,,,,2020/3/20-,2020/3/20,,1+
+Singapore-385,Male,22,United Kingdom,Singapore,,,,,,,2020/3/20-,2020/3/20,,0
+Singapore-386,Female,64,Singapore,Singapore,,,,,,,2020/3/20-,2020/3/20,,1+
+Singapore-387,Female,30,Europe,Singapore,,,,,,,2020/3/20-,2020/3/20,,0
+Singapore-388,Male,40,Singapore,Singapore,,,,,,,2020/3/20-,2020/3/20,Singapore-351;,1
+Singapore-389,Female,36,India,Singapore,,,,,,,2020/3/20-,2020/3/20,,0
+Singapore-390,Female,35,United Kingdom,Singapore,,,,,,,2020/3/20-,2020/3/20,,0
+Singapore-391,Male,53,United States,Singapore,,,,,,,2020/3/20-,2020/3/20,,0
+Singapore-392,Male,54,Indonesia,Singapore,,,,,,,2020/3/20-,2020/3/20,,0
+Singapore-393,Male,21,United Kingdom,Singapore,,,,,,,2020/3/20-,2020/3/20,,0
+Singapore-394,Female,66,Philippines,Singapore,,,,,,,2020/3/20-,2020/3/20,,0
+Singapore-395,Male,54,Singapore,Singapore,,,,,,,2020/3/20-,2020/3/20,,1+
+Singapore-396,Male,46,Singapore,Singapore,,,,,,,2020/3/20-,2020/3/20,,1+
+Singapore-397,Male,43,Ireland,Singapore,,,,,,,2020/3/20-,2020/3/20,,0
+Singapore-398,Male,57,Singapore,Singapore,,,,,,,2020/3/20-,2020/3/20,,1+
+Singapore-399,Female,23,United Kingdom,Singapore,,,,,,,2020/3/20-,2020/3/20,,0
+Singapore-400,Male,56,United Kingdom,Singapore,,,,,,,2020/3/20-,2020/3/20,,0
+Singapore-401,Male,20,United Kingdom,Singapore,,,,,,,2020/3/20-,2020/3/20,,0
+Singapore-402,Female,22,Indonesia,Singapore,,,,,,,2020/3/20-,2020/3/20,,0
+Singapore-403,Male,77,Indonesia,Singapore,,,,,,,2020/3/20-,2020/3/20,,0
+Singapore-404,Male,28,Malaysia,Singapore,,,,,,,2020/3/20-,2020/3/20,,0
+Singapore-405,Male,25,United Kingdom,Singapore,,,,,,,2020/3/20-,2020/3/20,,0
+Singapore-406,Female,61,Singapore,Singapore,,,,,,,2020/3/20-,2020/3/20,,1+
+Singapore-407,Male,25,,Singapore,,,,,,,2020/3/20-,2020/3/20,,0
+Singapore-408,Male,27,United States,Singapore,,,,,,,2020/3/20-,2020/3/20,,0
+Singapore-409,Female,23,United States,Singapore,,,,,,,2020/3/20-,2020/3/20,,0
+Singapore-410,Female,20,United Kingdom,Singapore,,,,,,,2020/3/21-,2020/3/21,,0
+Singapore-411,Male,30,United Kingdom,Singapore,,,,,,,2020/3/21-,2020/3/21,,0
+Singapore-412,Female,19,United Kingdom,Singapore,,,,,,,2020/3/21-,2020/3/21,,0
+Singapore-413,Male,29,Switzerland,Singapore,,,,,,,2020/3/21-,2020/3/21,,0
+Singapore-414,Male,37,United States,Singapore,,,,,,,2020/3/21-,2020/3/21,,0
+Singapore-415,Female,64,Indonesia,Singapore,,,,,,,2020/3/21-,2020/3/21,,0
+Singapore-416,Male,21,United Kingdom,Singapore,,,,,,,2020/3/21-,2020/3/21,,0
+Singapore-417,Female,18,United Kingdom,Singapore,,,,,,,2020/3/21-,2020/3/21,,0
+Singapore-418,Male,44,United States,Singapore,,,,,,,2020/3/21-,2020/3/21,,0
+Singapore-419,Male,45,,Singapore,,,,,,,2020/3/21-,2020/3/21,,0
+Singapore-420,Female,21,United Kingdom,Singapore,,,,,,,2020/3/21-,2020/3/21,,0
+Singapore-421,Male,23,United Kingdom,Singapore,,,,,,,2020/3/21-,2020/3/21,,0
+Singapore-422,Female,56,United States,Singapore,,,,,,,2020/3/21-,2020/3/21,,0
+Singapore-423,Male,24,Ireland,Singapore,,,,,,,2020/3/21-,2020/3/21,,0
+Singapore-424,Male,24,United States,Singapore,,,,,,,2020/3/21-,2020/3/21,,0
+Singapore-425,Female,21,United States,Singapore,,,,,,,2020/3/21-,2020/3/21,,0
+Singapore-426,Female,55,Singapore,Singapore,,,,,,,2020/3/21-,2020/3/21,,1+
+Singapore-427,Male,39,United States,Singapore,,,,,,,2020/3/21-,2020/3/21,,0
+Singapore-428,Male,22,United Kingdom,Singapore,,,,,,,2020/3/21-,2020/3/21,,0
+Singapore-429,Female,31,Europe,Singapore,,,,,,,2020/3/21-,2020/3/21,,0
+Singapore-430,Female,59,Singapore,Singapore,,,,,,,2020/3/21-,2020/3/21,Singapore-350;,2+
+Singapore-431,Male,58,United Kingdom,Singapore,,,,,,,2020/3/21-,2020/3/21,,0
+Singapore-432,Female,53,Indonesia,Singapore,,,,,,,2020/3/21-,2020/3/21,,0
+Singapore-456,Male,24,United Kingdom,Singapore,,,,,,,2020/3/22-,2020/3/22,,0
+Singapore-457,Male,40,Singapore,Singapore,,,,,,,2020/3/22-,2020/3/22,,1+
+Singapore-458,Female,20,United Kingdom,Singapore,,,,,,,2020/3/22-,2020/3/22,,0
+Singapore-459,Male,67,Singapore,Singapore,,,,,,,2020/3/22-,2020/3/22,,1+
+Singapore-460,Male,23,United Kingdom,Singapore,,,,,,,2020/3/22-,2020/3/22,,0
+Singapore-461,Female,49,Malaysia,Singapore,,,,,,,2020/3/22-,2020/3/22,,0
+Singapore-462,Female,20,United Kingdom,Singapore,,,,,,,2020/3/22-,2020/3/22,,0
+Singapore-463,Male,64,Malaysia,Singapore,,,,,,,2020/3/22-,2020/3/22,,0
+Singapore-464,Male,23,United Kingdom,Singapore,,,,,,,2020/3/22-,2020/3/22,,0
+Singapore-465,Male,41,United Kingdom,Singapore,,,,,,,2020/3/22-,2020/3/22,,0
+Singapore-466,Male,55,Indonesia,Singapore,,,,,,,2020/3/22-,2020/3/22,,0
+Singapore-467,Female,20,United Kingdom,Singapore,,,,,,,2020/3/22-,2020/3/22,,0
+Singapore-468,Male,28,United Kingdom,Singapore,,,,,,,2020/3/22-,2020/3/22,,0
+Singapore-469,Male,43,Spain,Singapore,,,,,,,2020/3/22-,2020/3/22,,0
+Singapore-470,Female,24,Indonesia,Singapore,,,,,,,2020/3/22-,2020/3/22,,0
+Singapore-471,Male,22,United Kingdom,Singapore,,,,,,,2020/3/22-,2020/3/22,,0
+Singapore-472,Female,19,United Kingdom,Singapore,,,,,,,2020/3/22-,2020/3/22,,0
+Singapore-473,Male,25,United Kingdom,Singapore,,,,,,,2020/3/22-,2020/3/22,,0
+Singapore-474,Male,22,United Kingdom,Singapore,,,,,,,2020/3/22-,2020/3/22,,0
+Singapore-475,Female,22,Ireland,Singapore,,,,,,,2020/3/22-,2020/3/22,,0
+Singapore-476,Male,68,Indonesia,Singapore,,,,,,,2020/3/22-,2020/3/22,,0
+Singapore-477,Male,44,Singapore,Singapore,,,,,,,2020/3/22-,2020/3/22,,1+
+Singapore-478,Male,80,Singapore,Singapore,,,,,,,2020/3/22-,2020/3/22,,1+
+Singapore-479,Female,35,Singapore,Singapore,,,,,,,2020/3/22-,2020/3/22,,1+
+Singapore-480,Female,52,Singapore,Singapore,,,,,,,2020/3/22-,2020/3/22,,1+
+Singapore-481,Female,37,United Kingdom,Singapore,,,,,,,2020/3/22-,2020/3/22,,0
+Singapore-482,Male,35,United States,Singapore,,,,,,,2020/3/22-,2020/3/22,,0
+Singapore-483,Female,28,United States,Singapore,,,,,,,2020/3/22-,2020/3/22,,0
+Singapore-484,Male,21,United Kingdom,Singapore,,,,,,,2020/3/22-,2020/3/22,,0
+Singapore-485,Male,20,United Kingdom,Singapore,,,,,,,2020/3/22-,2020/3/22,,0
+Singapore-486,Male,22,United Kingdom,Singapore,,,,,,,2020/3/22-,2020/3/22,,0
+Singapore-487,Male,72,Indonesia,Singapore,,,,,,,2020/3/22-,2020/3/22,,0
+Singapore-488,Male,36,United Kingdom,Singapore,,,,,,,2020/3/22-,2020/3/22,,0
+Singapore-489,Male,25,United Kingdom,Singapore,,,,,,,2020/3/22-,2020/3/22,,0
+Singapore-490,Male,36,Europe,Singapore,,,,,,,2020/3/22-,2020/3/22,,0
+Singapore-491,Male,22,United Kingdom,Singapore,,,,,,,2020/3/22-,2020/3/22,,0
+Singapore-492,Female,24,United Kingdom,Singapore,,,,,,,2020/3/22-,2020/3/22,,0
+Singapore-493,Female,23,United Kingdom,Singapore,,,,,,,2020/3/22-,2020/3/22,,0
+Singapore-494,Male,24,Sweden,Singapore,,,,,,,2020/3/22-,2020/3/22,,0
+Singapore-495,Female,29,United Kingdom,Singapore,,,,,,,2020/3/22-,2020/3/22,,0
+Singapore-496,Female,21,United Kingdom,Singapore,,,,,,,2020/3/22-,2020/3/22,,0
+Singapore-497,Female,63,United Kingdom,Singapore,,,,,,,2020/3/22-,2020/3/22,,0
+Singapore-498,Female,22,United Kingdom,Singapore,,,,,,,2020/3/22-,2020/3/22,,0
+Singapore-499,Female,27,United States,Singapore,,,,,,,2020/3/22-,2020/3/22,,0
+Singapore-500,Male,24,Europe,Singapore,,,,,,,2020/3/22-,2020/3/22,,0
+Singapore-501,Male,65,United Kingdom,Singapore,,,,,,,2020/3/22-,2020/3/22,,0
+Singapore-502,Female,74,United Kingdom,Singapore,,,,,,,2020/3/22-,2020/3/22,,0
+Singapore-503,Male,26,United Kingdom,Singapore,,,,,,,2020/3/22-,2020/3/22,,0
+Singapore-504,Female,32,Europe,Singapore,,,,,,,2020/3/23-,2020/3/23,,0
+Singapore-505,Male,24,United Kingdom,Singapore,,,,,,,2020/3/23-,2020/3/23,,0
+Singapore-506,Male,49,Europe,Singapore,,,,,,,2020/3/23-,2020/3/23,,0
+Singapore-507,Female,29,United Kingdom,Singapore,,,,,,,2020/3/23-,2020/3/23,,0
+Singapore-508,Male,23,United Kingdom,Singapore,,,,,,,2020/3/23-,2020/3/23,,0
+Singapore-509,Male,53,Indonesia,Singapore,,,,,,,2020/3/23-,2020/3/23,,0
+Singapore-510,Female,52,Singapore,Singapore,,,,,,,2020/3/23-,2020/3/23,,1+
+Singapore-511,Male,53,Singapore,Singapore,,,,,,,2020/3/23-,2020/3/23,,1+
+Singapore-512,Female,21,United Kingdom,Singapore,,,,,,,2020/3/23-,2020/3/23,,0
+Singapore-513,Male,21,,Singapore,,,,,,,2020/3/23-,2020/3/23,,0
+Singapore-514,Female,18,,Singapore,,,,,,,2020/3/23-,2020/3/23,,0
+Singapore-515,Male,24,United States,Singapore,,,,,,,2020/3/23-,2020/3/23,,0
+Singapore-516,Female,42,Singapore,Singapore,,,,,,,2020/3/23-,2020/3/23,,2+
+Singapore-517,Male,37,Europe,Singapore,,,,,,,2020/3/23-,2020/3/23,,0
+Singapore-518,Male,46,United States,Singapore,,,,,,,2020/3/23-,2020/3/23,,0
+Singapore-519,Male,44,Germany,Singapore,,,,,,,2020/3/23-,2020/3/23,,0
+Singapore-520,Male,71,Singapore,Singapore,,,,,,,2020/3/23-,2020/3/23,Singapore-94;,3+
+Singapore-521,Female,37,Singapore,Singapore,,,,,,,2020/3/23-,2020/3/23,,2+
+Singapore-522,Female,45,United States,Singapore,,,,,,,2020/3/23-,2020/3/23,,0
+Singapore-523,Male,9,Philippines,Singapore,,,,,,,2020/3/23-,2020/3/23,,0
+Singapore-524,Male,61,Singapore,Singapore,,,,,,,2020/3/23-,2020/3/23,,1+
+Singapore-525,Female,64,Singapore,Singapore,,,,,,,2020/3/23-,2020/3/23,,1+
+Singapore-526,Male,22,United States,Singapore,,,,,,,2020/3/23-,2020/3/23,,0
+Singapore-527,Male,44,Singapore,Singapore,,,,,,,2020/3/23-,2020/3/23,,1+
+Singapore-528,Male,50,Singapore,Singapore,,,,,,,2020/3/24-,2020/3/24,,1+
+Singapore-529,Female,19,Europe,Singapore,,,,,,,2020/3/24-,2020/3/24,,0
+Singapore-530,Male,35,United States,Singapore,,,,,,,2020/3/24-,2020/3/24,,0
+Singapore-531,Male,43,Singapore,Singapore,,,,,,,2020/3/24-,2020/3/24,,1+
+Singapore-532,Male,44,,Singapore,,,,,,,2020/3/24-,2020/3/24,,0
+Singapore-533,Male,61,Singapore,Singapore,,,,,,,2020/3/24-,2020/3/24,,1+
+Singapore-534,Male,34,Europe,Singapore,,,,,,,2020/3/24-,2020/3/24,,0
+Singapore-535,Male,61,Singapore,Singapore,,,,,,,2020/3/24-,2020/3/24,,1+
+Singapore-536,Female,86,Singapore,Singapore,,,,,,,2020/3/24-,2020/3/24,,1+
+Singapore-537,Female,22,Europe,Singapore,,,,,,,2020/3/24-,2020/3/24,,0
+Singapore-538,Male,50,,Singapore,,,,,,,2020/3/24-,2020/3/24,,0
+Singapore-539,Female,74,Singapore,Singapore,,,,,,,2020/3/24-,2020/3/24,Singapore-338;Singapore-367;,2+
+Singapore-540,Male,23,United States,Singapore,,,,,,,2020/3/24-,2020/3/24,,0
+Singapore-541,Female,20,Europe,Singapore,,,,,,,2020/3/24-,2020/3/24,,0
+Singapore-542,Male,23,Europe,Singapore,,,,,,,2020/3/24-,2020/3/24,,0
+Singapore-543,Female,19,Europe,Singapore,,,,,,,2020/3/24-,2020/3/24,,0
+Singapore-544,Male,55,Europe,Singapore,,,,,,,2020/3/24-,2020/3/24,,0
+Singapore-545,Female,75,,Singapore,,,,,,,2020/3/24-,2020/3/24,,0
+Singapore-546,Male,27,United Kingdom,Singapore,,,,,,,2020/3/24-,2020/3/24,,0
+Singapore-547,Female,25,United Kingdom,Singapore,,,,,,,2020/3/24-,2020/3/24,,0
+Singapore-548,Female,44,Spain,Singapore,,,,,,,2020/3/24-,2020/3/24,,0
+Singapore-549,Female,21,United Kingdom,Singapore,,,,,,,2020/3/24-,2020/3/24,,0
+Singapore-550,Female,24,Singapore,Singapore,,,,,,,2020/3/24-,2020/3/24,Singapore-451;,2+
+Singapore-551,Female,22,United Kingdom,Singapore,,,,,,,2020/3/24-,2020/3/24,,0
+Singapore-552,Female,21,United Kingdom,Singapore,,,,,,,2020/3/24-,2020/3/24,,0
+Singapore-553,Female,57,Singapore,Singapore,,,,,,,2020/3/24-,2020/3/24,Singapore-384;,2+
+Singapore-554,Female,24,Middle East,Singapore,,,,,,,2020/3/24-,2020/3/24,,0
+Singapore-555,Male,24,United Kingdom,Singapore,,,,,,,2020/3/24-,2020/3/24,,0
+Singapore-556,Female,27,Australia,Singapore,,,,,,,2020/3/24-,2020/3/24,,0
+Singapore-557,Male,68,Pakistan,Singapore,,,,,,,2020/3/24-,2020/3/24,,0
+Singapore-558,Male,17,Malaysia,Singapore,,,,,,,2020/3/24-,2020/3/24,,0
+Singapore-559,Male,22,United Kingdom,Singapore,,,,,,,2020/3/24-,2020/3/24,,0
+Singapore-560,Male,24,United States,Singapore,,,,,,,2020/3/24-,2020/3/24,,0
+Singapore-561,Male,30,France,Singapore,,,,,,,2020/3/24-,2020/3/24,,0
+Singapore-562,Female,28,Indonesia,Singapore,,,,,,,2020/3/24-,2020/3/24,,0
+Singapore-563,Male,25,United Kingdom,Singapore,,,,,,,2020/3/24-,2020/3/24,,0
+Singapore-564,Male,29,,Singapore,,,,,,,2020/3/24-,2020/3/24,,0
+Singapore-565,Female,46,United Kingdom,Singapore,,,,,,,2020/3/24-,2020/3/24,,0
+Singapore-566,Female,67,Singapore,Singapore,,,,,,,2020/3/24-,2020/3/24,Singapore-521;Singapore-567;Singapore-572;Singapore-601;,3+
+Singapore-567,Male,70,Singapore,Singapore,,,,,,,2020/3/24-,2020/3/24,Singapore-521;Singapore-567;Singapore-572;Singapore-601;,3+
+Singapore-568,Male,30,Malaysia,Singapore,,,,,,,2020/3/24-,2020/3/24,,0
+Singapore-569,Female,22,United Kingdom,Singapore,,,,,,,2020/3/24-,2020/3/24,,0
+Singapore-570,Male,50,Singapore,Singapore,,,,,,,2020/3/24-,2020/3/24,,1+
+Singapore-571,Male,53,United Kingdom,Singapore,,,,,,,2020/3/24-,2020/3/24,,0
+Singapore-572,Female,26,Singapore,Singapore,,,,,,,2020/3/24-,2020/3/24,Singapore-521;Singapore-566;Singapore-567;Singapore-601;,3+
+Singapore-573,Male,45,Singapore,Singapore,,,,,,,2020/3/24-,2020/3/24,,1+
+Singapore-574,Male,24,,Singapore,,,,,,,2020/3/24-,2020/3/24,,0
+Singapore-575,Male,28,,Singapore,,,,,,,2020/3/24-,2020/3/24,,0
+Singapore-576,Female,21,United States,Singapore,,,,,,,2020/3/24-,2020/3/24,,0
+Singapore-577,Female,37,Singapore,Singapore,,,,,,,2020/3/24-,2020/3/24,Singapore-527;,2+
+Singapore-578,Male,11,Singapore,Singapore,,,,,,,2020/3/24-,2020/3/24,Singapore-532;,1
+Singapore-579,Male,25,United Kingdom,Singapore,,,,,,,2020/3/24-,2020/3/24,,0
+Singapore-580,Female,35,Singapore,Singapore,,,,,,,2020/3/24-,2020/3/24,Singapore-518;,1
+Singapore-581,Male,47,Singapore,Singapore,,,,,,,2020/3/24-,2020/3/24,,2+
+Singapore-582,Female,3,United States,Singapore,,,,,,,2020/3/24-,2020/3/24,,0
+Singapore-583,Female,61,Singapore,Singapore,,,,,,,2020/3/24-,2020/3/24,Singapore-516;,3+
+Singapore-584,Female,37,Singapore,Singapore,,,,,,,2020/3/24-,2020/3/24,Singapore-516;,3+
+Singapore-585,Female,38,Singapore,Singapore,,,,,,,2020/3/24-,2020/3/24,Singapore-523;,1
+Singapore-586,Male,51,Singapore,Singapore,,,,,,,2020/3/24-,2020/3/24,,1+
+Singapore-588,Male,62,United Kingdom,Singapore,,,,,,,2020/3/24-,2020/3/24,,0
+Singapore-589,Male,47,Singapore,Singapore,,,,,,,2020/3/24-,2020/3/24,,1+
+Singapore-590,Female,21,United Kingdom,Singapore,,,,,,,2020/3/24-,2020/3/24,,0
+Singapore-591,Male,64,Portugal,Singapore,,,,,,,2020/3/24-,2020/3/24,,0
+Singapore-592,Male,24,United Kingdom,Singapore,,,,,,,2020/3/24-,2020/3/24,,0
+Singapore-593,Male,24,United States,Singapore,,,,,,,2020/3/24-,2020/3/24,,0
+Singapore-594,Male,23,Singapore,Singapore,,,,,,,2020/3/24-,2020/3/24,,1+
+Singapore-595,Female,19,,Singapore,,,,,,,2020/3/24-,2020/3/24,,0
+Singapore-596,Male,35,United Kingdom,Singapore,,,,,,,2020/3/25-,2020/3/25,,0
+Singapore-597,Female,50,Singapore,Singapore,,,,,,,2020/3/25-,2020/3/25,Singapore-570;,2+
+Singapore-598,Female,35,Singapore,Singapore,,,,,,,2020/3/25-,2020/3/25,,1+
+Singapore-599,Male,32,United Kingdom,Singapore,,,,,,,2020/3/25-,2020/3/25,,0
+Singapore-600,Male,66,,Singapore,,,,,,,2020/3/25-,2020/3/25,,0
+Singapore-601,Female,47,Singapore,Singapore,,,,,,,2020/3/25-,2020/3/25,Singapore-521;Singapore-566;Singapore-567;Singapore-572;,3+
+Singapore-602,Female,56,Singapore,Singapore,,,,,,,2020/3/25-,2020/3/25,Singapore-516;,3+
+Singapore-603,Female,23,Singapore,Singapore,,,,,,,2020/3/25-,2020/3/25,,2+
+Singapore-604,Female,36,Singapore,Singapore,,,,,,,2020/3/25-,2020/3/25,,2+
+Singapore-605,Female,29,Singapore,Singapore,,,,,,,2020/3/25-,2020/3/25,,2+
+Singapore-606,Male,55,Singapore,Singapore,,,,,,,2020/3/25-,2020/3/25,,1+
+Singapore-607,Female,40,United Kingdom,Singapore,,,,,,,2020/3/25-,2020/3/25,,0
+Singapore-608,Female,18,Canada,Singapore,,,,,,,2020/3/25-,2020/3/25,,0
+Singapore-609,Female,30,Singapore,Singapore,,,,,,,2020/3/25-,2020/3/25,Singapore-516;,3+
+Singapore-610,Female,25,Singapore,Singapore,,,,,,,2020/3/25-,2020/3/25,Singapore-516;,3+
+Singapore-611,Male,24,United Kingdom,Singapore,,,,,,,2020/3/25-,2020/3/25,,0
+Singapore-612,Female,22,Singapore,Singapore,,,,,,,2020/3/25-,2020/3/25,,2+
+Singapore-613,Female,62,Thailand,Singapore,,,,,,,2020/3/25-,2020/3/25,,0
+Singapore-614,Female,62,Singapore,Singapore,,,,,,,2020/3/25-,2020/3/25,,2+
+Singapore-615,Female,44,Germany,Singapore,,,,,,,2020/3/25-,2020/3/25,,0
+Singapore-616,Male,39,Malaysia,Singapore,,,,,,,2020/3/25-,2020/3/25,,0
+Singapore-617,Female,26,Singapore,Singapore,,,,,,,2020/3/25-,2020/3/25,,2+
+Singapore-618,Female,29,Singapore,Singapore,,,,,,,2020/3/25-,2020/3/25,Singapore-556;,1
+Singapore-619,Female,65,Singapore,Singapore,,,,,,,2020/3/25-,2020/3/25,Singapore-557;,1
+Singapore-620,Female,18,United Kingdom,Singapore,,,,,,,2020/3/25-,2020/3/25,,0
+Singapore-621,Male,50,Singapore,Singapore,,,,,,,2020/3/25-,2020/3/25,,1+
+Singapore-622,Female,27,United Kingdom,Singapore,,,,,,,2020/3/25-,2020/3/25,,0
+Singapore-623,Female,58,Indonesia,Singapore,,,,,,,2020/3/25-,2020/3/25,,0
+Singapore-624,Female,48,Singapore,Singapore,,,,,,,2020/3/25-,2020/3/25,,2+
+Singapore-625,Male,27,Philippines,Singapore,,,,,,,2020/3/25-,2020/3/25,,0
+Singapore-626,Female,44,Singapore,Singapore,,,,,,,2020/3/25-,2020/3/25,Singapore-556;,1
+Singapore-627,Female,18,United Kingdom,Singapore,,,,,,,2020/3/25-,2020/3/25,,0
+Singapore-628,Male,23,United Kingdom,Singapore,,,,,,,2020/3/25-,2020/3/25,,0
+Singapore-629,Male,46,Pakistan,Singapore,,,,,,,2020/3/25-,2020/3/25,,0
+Singapore-630,Female,43,Singapore,Singapore,,,,,,,2020/3/25-,2020/3/25,Singapore-532;,1
+Singapore-631,Female,3,Singapore,Singapore,,,,,,,2020/3/25-,2020/3/25,Singapore-453;,2+
+Singapore-632,Male,32,Singapore,Singapore,,,,,,,2020/3/25-,2020/3/25,,1+
+Singapore-633,Male,35,United Kingdom,Singapore,,,,,,,2020/3/25-,2020/3/25,,0
+Singapore-634,Female,42,Philippines,Singapore,,,,,,,2020/3/25-,2020/3/25,,0
+Singapore-635,Female,21,United States,Singapore,,,,,,,2020/3/25-,2020/3/25,,0
+Singapore-636,Female,22,United Kingdom,Singapore,,,,,,,2020/3/25-,2020/3/25,,0
+Singapore-637,Male,24,Singapore,Singapore,,,,,,,2020/3/25-,2020/3/25,,1+
+Singapore-638,Male,49,Singapore,Singapore,,,,,,,2020/3/25-,2020/3/25,,2+
+Singapore-639,Male,40,United Kingdom,Singapore,,,,,,,2020/3/25-,2020/3/25,,0
+Singapore-640,Male,18,Europe,Singapore,,,,,,,2020/3/25-,2020/3/25,,0
+Singapore-641,Male,55,Europe,Singapore,,,,,,,2020/3/25-,2020/3/25,,0
+Singapore-642,Male,19,United Kingdom,Singapore,,,,,,,2020/3/25-,2020/3/25,,0
+Singapore-643,Female,51,Singapore,Singapore,,,,,,,2020/3/25-,2020/3/25,,1+
+Singapore-644,Male,52,Singapore,Singapore,,,,,,,2020/3/25-,2020/3/25,Singapore-632;,2+
+Singapore-645,Male,27,Singapore,Singapore,,,,,,,2020/3/25-,2020/3/25,Singapore-528;,2+
+Singapore-646,Female,56,Indonesia,Singapore,,,,,,,2020/3/25-,2020/3/25,,0
+Singapore-647,Female,46,United States,Singapore,,,,,,,2020/3/25-,2020/3/25,,0
+Singapore-648,Male,26,Sri Lanka,Singapore,,,,,,,2020/3/25-,2020/3/25,,0
+Singapore-649,Male,36,Australia,Singapore,,,,,,,2020/3/25-,2020/3/25,,0
+Singapore-650,Male,19,United Kingdom,Singapore,,,,,,,2020/3/25-,2020/3/25,,0
+Singapore-651,Male,31,Thailand,Singapore,,,,,,,2020/3/25-,2020/3/25,,0
+Singapore-652,Male,37,Singapore,Singapore,,,,,,,2020/3/25-,2020/3/25,,1+
+Singapore-653,Female,25,United States,Singapore,,,,,,,2020/3/25-,2020/3/25,,0
+Singapore-654,Female,66,Europe,Singapore,,,,,,,2020/3/25-,2020/3/25,,0
+Singapore-655,Male,30,Singapore,Singapore,,,,,,,2020/3/25-,2020/3/25,,1+
+Singapore-656,Male,30,,Singapore,,,,,,,2020/3/25-,2020/3/25,,0
+Singapore-657,Male,46,Singapore,Singapore,,,,,,,2020/3/25-,2020/3/25,,2+
+Singapore-658,Male,28,Singapore,Singapore,,,,,,,2020/3/25-,2020/3/25,,1+
+Singapore-659,Female,27,Singapore,Singapore,,,,,,,2020/3/25-,2020/3/25,,1+
+Singapore-660,Female,22,Singapore,Singapore,,,,,,,2020/3/25-,2020/3/25,,2+
+Singapore-661,Female,44,Singapore,Singapore,,,,,,,2020/3/26-,2020/3/26,,1+
+Singapore-662,Male,42,Singapore,Singapore,,,,,,,2020/3/26-,2020/3/26,,2+
+Singapore-663,Female,21,United Kingdom,Singapore,,,,,,,2020/3/26-,2020/3/26,,0
+Singapore-664,Female,38,,Singapore,,,,,,,2020/3/26-,2020/3/26,,0
+Singapore-665,Female,21,United States,Singapore,,,,,,,2020/3/26-,2020/3/26,,0
+Singapore-666,Female,32,Singapore,Singapore,,,,,,,2020/3/26-,2020/3/26,,1+
+Singapore-667,Female,40,United States,Singapore,,,,,,,2020/3/26-,2020/3/26,,0
+Singapore-668,Female,31,Singapore,Singapore,,,,,,,2020/3/26-,2020/3/26,Singapore-600;,1
+Singapore-669,Male,54,France,Singapore,,,,,,,2020/3/26-,2020/3/26,,0
+Singapore-670,Male,34,Singapore,Singapore,,,,,,,2020/3/26-,2020/3/26,,2+
+Singapore-671,Female,29,United States,Singapore,,,,,,,2020/3/26-,2020/3/26,,0
+Singapore-672,Female,24,United States,Singapore,,,,,,,2020/3/26-,2020/3/26,,0
+Singapore-673,Male,27,United States,Singapore,,,,,,,2020/3/26-,2020/3/26,,0
+Singapore-674,Male,59,United Kingdom,Singapore,,,,,,,2020/3/26-,2020/3/26,,0
+Singapore-675,Female,51,Singapore,Singapore,,,,,,,2020/3/26-,2020/3/26,Singapore-528;,2+
+Singapore-676,Male,29,Singapore,Singapore,,,,,,,2020/3/26-,2020/3/26,Singapore-528;,2+
+Singapore-677,Female,40,Singapore,Singapore,,,,,,,2020/3/26-,2020/3/26,,1+
+Singapore-678,Male,71,Singapore,Singapore,,,,,,,2020/3/26-,2020/3/26,,2+
+Singapore-679,Male,45,Singapore,Singapore,,,,,,,2020/3/26-,2020/3/26,,1+
+Singapore-680,Male,19,,Singapore,,,,,,,2020/3/26-,2020/3/26,,0
+Singapore-681,Male,42,Singapore,Singapore,,,,,,,2020/3/26-,2020/3/26,Singapore-477;,2+
+Singapore-682,Male,22,Singapore,Singapore,,,,,,,2020/3/26-,2020/3/26,,1+
+Singapore-683,Female,40,,Singapore,,,,,,,2020/3/26-,2020/3/26,,0
+Singapore-684,Male,21,United Kingdom,Singapore,,,,,,,2020/3/26-,2020/3/26,,0
+Singapore-685,Male,59,Singapore,Singapore,,,,,,,2020/3/26-,2020/3/26,Singapore-588;,1
+Singapore-686,Male,37,Singapore,Singapore,,,,,,,2020/3/26-,2020/3/26,,2+
+Singapore-687,Male,77,Singapore,Singapore,,,,,,,2020/3/26-,2020/3/26,Singapore-196;,5+
+Singapore-688,Female,76,Singapore,Singapore,,,,,,,2020/3/26-,2020/3/26,,1+
+Singapore-689,Female,76,Singapore,Singapore,,,,,,,2020/3/26-,2020/3/26,,2+
+Singapore-690,Female,31,Thailand,Singapore,,,,,,,2020/3/26-,2020/3/26,,0
+Singapore-691,Female,37,Singapore,Singapore,,,,,,,2020/3/26-,2020/3/26,,1+
+Singapore-692,Female,67,Malaysia,Singapore,,,,,,,2020/3/26-,2020/3/26,,0
+Singapore-693,Female,30,,Singapore,,,,,,,2020/3/26-,2020/3/26,,0
+Singapore-694,Male,41,,Singapore,,,,,,,2020/3/26-,2020/3/26,,0
+Singapore-695,Female,1,,Singapore,,,,,,,2020/3/26-,2020/3/26,,0
+Singapore-696,Male,54,Singapore,Singapore,,,,,,,2020/3/26-,2020/3/26,,1+
+Singapore-697,Female,57,Singapore,Singapore,,,,,,,2020/3/26-,2020/3/26,,1+
+Singapore-698,Male,60,Singapore,Singapore,,,,,,,2020/3/26-,2020/3/26,,1+
+Singapore-699,Male,53,,Singapore,,,,,,,2020/3/26-,2020/3/26,,0
+Singapore-700,Female,55,Europe,Singapore,,,,,,,2020/3/26-,2020/3/26,,0
+Singapore-701,Male,50,United States,Singapore,,,,,,,2020/3/26-,2020/3/26,,0
+Singapore-702,Male,61,Europe,Singapore,,,,,,,2020/3/26-,2020/3/26,,0
+Singapore-703,Female,58,Europe,Singapore,,,,,,,2020/3/26-,2020/3/26,,0
+Singapore-704,Male,19,Europe,Singapore,,,,,,,2020/3/26-,2020/3/26,,0
+Singapore-705,Female,2,Singapore,Singapore,,,,,,,2020/3/26-,2020/3/26,,2+
+Singapore-706,Female,6,Singapore,Singapore,,,,,,,2020/3/26-,2020/3/26,,2+
+Singapore-707,Male,11,Singapore,Singapore,,,,,,,2020/3/26-,2020/3/26,,2+
+Singapore-708,Female,13,Singapore,Singapore,,,,,,,2020/3/26-,2020/3/26,,2+
+Singapore-709,Male,26,Singapore,Singapore,,,,,,,2020/3/26-,2020/3/26,,1+
+Singapore-710,Male,28,Singapore,Singapore,,,,,,,2020/3/26-,2020/3/26,Singapore-404;Singapore-456;,1
+Singapore-711,Female,21,Europe,Singapore,,,,,,,2020/3/26-,2020/3/26,,0
+Singapore-712,Female,38,Europe,Singapore,,,,,,,2020/3/26-,2020/3/26,,0
+Singapore-713,Female,59,Singapore,Singapore,,,,,,,2020/3/26-,2020/3/26,,2+
+Singapore-714,Female,27,Singapore,Singapore,,,,,,,2020/3/26-,2020/3/26,Singapore-670;,3+
+Singapore-715,Male,71,Malaysia,Singapore,,,,,,,2020/3/27-,2020/3/27,,0
+Singapore-716,Female,67,Singapore,Singapore,,,,,,,2020/3/27-,2020/3/27,,2+
+Singapore-717,Female,19,,Singapore,,,,,,,2020/3/27-,2020/3/27,,0
+Singapore-718,Male,33,Singapore,Singapore,,,,,,,2020/3/27-,2020/3/27,Singapore-658;,2+
+Singapore-719,Male,29,United Kingdom,Singapore,,,,,,,2020/3/27-,2020/3/27,,0
+Singapore-720,Male,20,United States,Singapore,,,,,,,2020/3/27-,2020/3/27,,0
+Singapore-721,Female,68,Singapore,Singapore,,,,,,,2020/3/27-,2020/3/27,,1+
+Singapore-722,Male,56,Singapore,Singapore,,,,,,,2020/3/27-,2020/3/27,,1+
+Singapore-723,Female,27,United Kingdom,Singapore,,,,,,,2020/3/27-,2020/3/27,,0
+Singapore-724,Male,29,Singapore,Singapore,,,,,,,2020/3/27-,2020/3/27,,2+
+Singapore-725,Male,23,United Kingdom,Singapore,,,,,,,2020/3/27-,2020/3/27,,0
+Singapore-726,Male,59,Singapore,Singapore,,,,,,,2020/3/27-,2020/3/27,Singapore-557;Singapore-629;,1
+Singapore-727,Male,59,United Kingdom,Singapore,,,,,,,2020/3/27-,2020/3/27,,0
+Singapore-728,Male,22,Singapore,Singapore,,,,,,,2020/3/27-,2020/3/27,,1+
+Singapore-729,Male,53,Singapore,Singapore,,,,,,,2020/3/27-,2020/3/27,,2+
+Singapore-730,Male,26,Singapore,Singapore,,,,,,,2020/3/27-,2020/3/27,,1+
+Singapore-731,Male,32,Singapore,Singapore,,,,,,,2020/3/27-,2020/3/27,,1+
+Singapore-732,Female,23,United Kingdom,Singapore,,,,,,,2020/3/27-,2020/3/27,,0
+Singapore-733,Male,52,United Kingdom & United States,Singapore,,,,,,,2020/3/27-,2020/3/27,,0
+Singapore-734,Female,31,Singapore,Singapore,,,,,,,2020/3/27-,2020/3/27,Singapore-533;Singapore-659;,2+
+Singapore-735,Female,29,Vietnam,Singapore,,,,,,,2020/3/27-,2020/3/27,,0
+Singapore-736,Male,43,Indonesia,Singapore,,,,,,,2020/3/27-,2020/3/27,,0
+Singapore-737,Male,28,Malaysia,Singapore,,,,,,,2020/3/27-,2020/3/27,,0
+Singapore-738,Female,57,United Kingdom,Singapore,,,,,,,2020/3/27-,2020/3/27,,0
+Singapore-739,Female,30,United Kingdom,Singapore,,,,,,,2020/3/27-,2020/3/27,,0
+Singapore-740,Male,25,Singapore,Singapore,,,,,,,2020/3/27-,2020/3/27,,2+
+Singapore-741,Female,42,Singapore,Singapore,,,,,,,2020/3/27-,2020/3/27,,1+
+Singapore-742,Male,39,Singapore,Singapore,,,,,,,2020/3/27-,2020/3/27,,1+
+Singapore-743,Male,69,Malaysia,Singapore,,,,,,,2020/3/27-,2020/3/27,,0
+Singapore-744,Female,40,United Kingdom,Singapore,,,,,,,2020/3/27-,2020/3/27,,0
+Singapore-745,Female,36,Singapore,Singapore,,,,,,,2020/3/27-,2020/3/27,,2+
+Singapore-746,Male,38,Singapore,Singapore,,,,,,,2020/3/27-,2020/3/27,,2+
+Singapore-747,Male,51,Singapore,Singapore,,,,,,,2020/3/27-,2020/3/27,,1+
+Singapore-748,Female,36,Singapore,Singapore,,,,,,,2020/3/27-,2020/3/27,,1+
+Singapore-749,Female,24,United Kingdom,Singapore,,,,,,,2020/3/27-,2020/3/27,,0
+Singapore-750,Female,22,,Singapore,,,,,,,2020/3/27-,2020/3/27,,0
+Singapore-751,Male,71,,Singapore,,,,,,,2020/3/27-,2020/3/27,,0
+Singapore-752,Female,70,,Singapore,,,,,,,2020/3/27-,2020/3/27,,0
+Singapore-753,Male,24,Canada,Singapore,,,,,,,2020/3/27-,2020/3/27,,0
+Singapore-754,Male,22,United Kingdom,Singapore,,,,,,,2020/3/27-,2020/3/27,,0
+Singapore-755,Male,25,Laos,Singapore,,,,,,,2020/3/27-,2020/3/27,,0
+Singapore-756,Male,42,Singapore,Singapore,,,,,,,2020/3/27-,2020/3/27,,1+
+Singapore-757,Female,22,Singapore,Singapore,,,,,,,2020/3/27-,2020/3/27,,1+
+Singapore-758,Male,23,United States,Singapore,,,,,,,2020/3/27-,2020/3/27,,0
+Singapore-759,Female,1,Europe,Singapore,,,,,,,2020/3/27-,2020/3/27,,0
+Singapore-760,Male,64,Turkey,Singapore,,,,,,,2020/3/27-,2020/3/27,,0
+Singapore-761,Female,36,Singapore,Singapore,,,,,,,2020/3/27-,2020/3/27,,2+
+Singapore-762,Male,21,United States,Singapore,,,,,,,2020/3/27-,2020/3/27,,0
+Singapore-763,Female,21,United States,Singapore,,,,,,,2020/3/27-,2020/3/27,,0
+Singapore-764,Male,51,Singapore,Singapore,,,,,,,2020/3/27-,2020/3/27,,1+
+Singapore-765,Male,31,Singapore,Singapore,,,,,,,2020/3/27-,2020/3/27,,1+
+Singapore-766,Male,50,,Singapore,,,,,,,2020/3/27-,2020/3/27,,0
+Singapore-767,Male,28,Singapore,Singapore,,,,,,,2020/3/27-,2020/3/27,,1+
+Singapore-768,Male,42,Singapore,Singapore,,,,,,,2020/3/27-,2020/3/27,,1+
+Singapore-769,Male,44,Pakistan,Singapore,,,,,,,2020/3/27-,2020/3/27,,0
+Singapore-770,Male,47,Malaysia,Singapore,,,,,,,2020/3/27-,2020/3/27,,0
+Singapore-771,Male,30,Europe,Singapore,,,,,,,2020/3/27-,2020/3/27,,0
+Singapore-772,Male,43,United States,Singapore,,,,,,,2020/3/28-,2020/3/28,,0
+Singapore-773,Female,55,Singapore,Singapore,,,,,,,2020/3/27-,2020/3/27,,1+
+Singapore-774,Female,24,United States,Singapore,,,,,,,2020/3/27-,2020/3/27,,0
+Singapore-775,Male,29,,Singapore,,,,,,,2020/3/27-,2020/3/27,,0
+Singapore-776,Male,35,,Singapore,,,,,,,2020/3/28-,2020/3/28,,0
+Singapore-777,Male,29,France,Singapore,,,,,,,2020/3/28-,2020/3/28,,0
+Singapore-778,Female,21,United Kingdom,Singapore,,,,,,,2020/3/28-,2020/3/28,,0
+Singapore-779,Female,55,Singapore,Singapore,,,,,,,2020/3/28-,2020/3/28,Singapore-653;,1
+Singapore-780,Female,50,Singapore,Singapore,,,,,,,2020/3/28-,2020/3/28,Singapore-652;,2+
+Singapore-781,Female,43,Philippines,Singapore,,,,,,,2020/3/28-,2020/3/28,,0
+Singapore-782,Female,21,United Kingdom,Singapore,,,,,,,2020/3/28-,2020/3/28,,0
+Singapore-783,Female,19,United Kingdom,Singapore,,,,,,,2020/3/28-,2020/3/28,,0
+Singapore-784,Female,23,United Kingdom,Singapore,,,,,,,2020/3/28-,2020/3/28,,0
+Singapore-785,Male,31,,Singapore,,,,,,,2020/3/28-,2020/3/28,,0
+Singapore-786,Male,51,,Singapore,,,,,,,2020/3/28-,2020/3/28,,0
+Singapore-787,Male,40,United Kingdom,Singapore,,,,,,,2020/3/28-,2020/3/28,,0
+Singapore-788,Female,57,Singapore,Singapore,,,,,,,2020/3/28-,2020/3/28,,1+
+Singapore-789,Female,50,Singapore,Singapore,,,,,,,2020/3/28-,2020/3/28,Singapore-722;,2+
+Singapore-790,Male,60,,Singapore,,,,,,,2020/3/28-,2020/3/28,,0
+Singapore-791,Female,40,Singapore,Singapore,,,,,,,2020/3/28-,2020/3/28,Singapore-418;Singapore-512;,1
+Singapore-792,Female,50,Singapore,Singapore,,,,,,,2020/3/28-,2020/3/28,Singapore-728;,2+
+Singapore-793,Female,23,Singapore,Singapore,,,,,,,2020/3/28-,2020/3/28,Singapore-678;,3+
+Singapore-794,Female,22,,Singapore,,,,,,,2020/3/28-,2020/3/28,,0
+Singapore-795,Male,18,Singapore,Singapore,,,,,,,2020/3/28-,2020/3/28,Singapore-533;Singapore-659;Singapore-734;,2+
+Singapore-796,Male,26,Singapore,Singapore,,,,,,,2020/3/28-,2020/3/28,,2+
+Singapore-797,Female,35,Singapore,Singapore,,,,,,,2020/3/28-,2020/3/28,Singapore-533;Singapore-659;Singapore-734;,2+
+Singapore-798,Female,29,Turkey,Singapore,,,,,,,2020/3/28-,2020/3/28,,0
+Singapore-799,Male,39,Singapore,Singapore,,,,,,,2020/3/28-,2020/3/28,Singapore-683;,1
+Singapore-800,Male,22,United Kingdom,Singapore,,,,,,,2020/3/28-,2020/3/28,,0
+Singapore-801,Male,39,Singapore,Singapore,,,,,,,2020/3/28-,2020/3/28,,1+
+Singapore-802,Female,28,Singapore,Singapore,,,,,,,2020/3/28-,2020/3/28,,2+
+Singapore-803,Male,23,United States,Singapore,,,,,,,2020/3/28-,2020/3/28,,0
+Singapore-804,Female,21,,Singapore,,,,,,,2020/3/28-,2020/3/28,,0
+Singapore-805,Male,32,,Singapore,,,,,,,2020/3/28-,2020/3/28,,0
+Singapore-806,Male,25,,Singapore,,,,,,,2020/3/28-,2020/3/28,,0
+Singapore-807,Male,21,Singapore,Singapore,,,,,,,2020/3/28-,2020/3/28,,1+
+Singapore-808,Male,44,Singapore,Singapore,,,,,,,2020/3/28-,2020/3/28,,1+
+Singapore-809,Male,37,Singapore,Singapore,,,,,,,2020/3/28-,2020/3/28,Singapore-742;,2+
+Singapore-810,Female,22,Singapore,Singapore,,,,,,,2020/3/28-,2020/3/28,Singapore-745;Singapore-802;,3+
+Singapore-811,Female,12,Singapore,Singapore,,,,,,,2020/3/28-,2020/3/28,Singapore-506;,1
+Singapore-812,Female,25,Singapore,Singapore,,,,,,,2020/3/28-,2020/3/28,,1+
+Singapore-813,Female,29,Singapore,Singapore,,,,,,,2020/3/28-,2020/3/28,,2+
+Singapore-814,Male,61,Malaysia,Singapore,,,,,,,2020/3/28-,2020/3/28,,0
+Singapore-815,Female,21,United States,Singapore,,,,,,,2020/3/28-,2020/3/28,,0
+Singapore-816,Female,36,Singapore,Singapore,,,,,,,2020/3/28-,2020/3/28,Singapore-787;,1
+Singapore-817,Male,43,India,Singapore,,,,,,,2020/3/28-,2020/3/28,,0
+Singapore-818,Female,22,Singapore,Singapore,,,,,,,2020/3/28-,2020/3/28,,2+
+Singapore-819,Female,35,India,Singapore,,,,,,,2020/3/28-,2020/3/28,,0
+Singapore-820,Female,55,Singapore,Singapore,,,,,,,2020/3/28-,2020/3/28,,1+
+Singapore-821,Male,35,Singapore,Singapore,,,,,,,2020/3/28-,2020/3/28,,1+
+Singapore-822,Male,22,United States,Singapore,,,,,,,2020/3/28-,2020/3/28,,0
+Singapore-823,Male,43,Singapore,Singapore,,,,,,,2020/3/28-,2020/3/28,,1+
+Singapore-824,Female,33,Singapore,Singapore,,,,,,,2020/3/28-,2020/3/28,,1+
+Singapore-825,Male,36,Philippines,Singapore,,,,,,,2020/3/28-,2020/3/28,,0
+Singapore-826,Male,48,Singapore,Singapore,,,,,,,2020/3/28-,2020/3/28,,2+
+Singapore-827,Female,27,United States,Singapore,,,,,,,2020/3/28-,2020/3/28,,0
+Singapore-828,Male,47,,Singapore,,,,,,,2020/3/28-,2020/3/28,,0
+Singapore-829,Male,34,Singapore,Singapore,,,,,,,2020/3/28-,2020/3/28,,2+
+Singapore-830,Female,61,Turkey,Singapore,,,,,,,2020/3/28-,2020/3/28,,0
+Singapore-831,Male,22,United States,Singapore,,,,,,,2020/3/29-,2020/3/29,,0
+Singapore-832,Male,52,,Singapore,,,,,,,2020/3/29-,2020/3/29,,0
+Singapore-833,Male,69,United Kingdom,Singapore,,,,,,,2020/3/29-,2020/3/29,,0
+Singapore-834,Male,34,India,Singapore,,,,,,,2020/3/29-,2020/3/29,,0
+Singapore-835,Female,68,Turkey,Singapore,,,,,,,2020/3/29-,2020/3/29,,0
+Singapore-836,Male,43,Singapore,Singapore,,,,,,,2020/3/29-,2020/3/29,Singapore-747;,2+
+Singapore-837,Female,68,Turkey,Singapore,,,,,,,2020/3/29-,2020/3/29,,0
+Singapore-838,Female,42,United Kingdom,Singapore,,,,,,,2020/3/29-,2020/3/29,,0
+Singapore-839,Female,57,Singapore,Singapore,,,,,,,2020/3/29-,2020/3/29,Singapore-533;,2+
+Singapore-840,Female,52,Philippines,Singapore,,,,,,,2020/3/29-,2020/3/29,,0
+Singapore-841,Female,21,United States,Singapore,,,,,,,2020/3/29-,2020/3/29,,0
+Singapore-842,Male,30,,Singapore,,,,,,,2020/3/29-,2020/3/29,,0
+Singapore-843,Female,68,United Kingdom,Singapore,,,,,,,2020/3/29-,2020/3/29,,0
+Singapore-844,Female,47,Singapore,Singapore,,,,,,,2020/3/29-,2020/3/29,,1+
+Singapore-845,Female,38,Singapore,Singapore,,,,,,,2020/3/29-,2020/3/29,Singapore-742;,2+
+Singapore-846,Male,68,Singapore,Singapore,,,,,,,2020/3/29-,2020/3/29,,1+
+Singapore-847,Male,42,Philippines,Singapore,,,,,,,2020/3/29-,2020/3/29,,0
+Singapore-848,Female,41,Singapore,Singapore,,,,,,,2020/3/29-,2020/3/29,,2+
+Singapore-849,Female,34,Singapore,Singapore,,,,,,,2020/3/29-,2020/3/29,Singapore-533;,2+
+Singapore-850,Male,37,Singapore,Singapore,,,,,,,2020/3/29-,2020/3/29,,1+
+Singapore-851,Female,40,Brazil,Singapore,,,,,,,2020/3/29-,2020/3/29,,0
+Singapore-852,Male,31,Singapore,Singapore,,,,,,,2020/3/29-,2020/3/29,,2+
+Singapore-853,Male,20,Singapore,Singapore,,,,,,,2020/3/29-,2020/3/29,,1+
+Singapore-854,Male,43,Singapore,Singapore,,,,,,,2020/3/29-,2020/3/29,,1+
+Singapore-855,Male,88,Singapore,Singapore,,,,,,,2020/3/29-,2020/3/29,,1+
+Singapore-856,Male,32,Singapore,Singapore,,,,,,,2020/3/29-,2020/3/29,,1+
+Singapore-857,Male,20,Malaysia,Singapore,,,,,,,2020/3/29-,2020/3/29,,0
+Singapore-858,Female,35,France,Singapore,,,,,,,2020/3/29-,2020/3/29,,0
+Singapore-859,Male,41,Singapore,Singapore,,,,,,,2020/3/29-,2020/3/29,,1+
+Singapore-860,Male,22,Singapore,Singapore,,,,,,,2020/3/29-,2020/3/29,,2+
+Singapore-861,Female,25,Singapore,Singapore,,,,,,,2020/3/29-,2020/3/29,Singapore-767;,2+
+Singapore-862,Male,29,United Kingdom,Singapore,,,,,,,2020/3/29-,2020/3/29,,0
+Singapore-863,Male,49,Singapore,Singapore,,,,,,,2020/3/29-,2020/3/29,Singapore-727;,1
+Singapore-864,Female,27,Singapore,Singapore,,,,,,,2020/3/29-,2020/3/29,,2+
+Singapore-865,Male,36,Singapore,Singapore,,,,,,,2020/3/29-,2020/3/29,Singapore-488;,1
+Singapore-866,Male,52,Singapore,Singapore,,,,,,,2020/3/29-,2020/3/29,,1+
+Singapore-867,Female,36,Singapore,Singapore,,,,,,,2020/3/29-,2020/3/29,Singapore-434;,2+
+Singapore-868,Male,29,Singapore,Singapore,,,,,,,2020/3/29-,2020/3/29,,1+
+Singapore-869,Male,41,Singapore,Singapore,,,,,,,2020/3/30-,2020/3/30,,1+
+Singapore-870,Male,54,Singapore,Singapore,,,,,,,2020/3/30-,2020/3/30,Singapore-393;,1
+Singapore-871,Female,19,United Kingdom,Singapore,,,,,,,2020/3/30-,2020/3/30,,0
+Singapore-872,Female,39,,Singapore,,,,,,,2020/3/30-,2020/3/30,,0
+Singapore-873,Female,47,Singapore,Singapore,,,,,,,2020/3/30-,2020/3/30,,2+
+Singapore-874,Male,25,United Kingdom,Singapore,,,,,,,2020/3/30-,2020/3/30,,0
+Singapore-875,Male,29,Singapore,Singapore,,,,,,,2020/3/30-,2020/3/30,,2+
+Singapore-876,Female,53,Singapore,Singapore,,,,,,,2020/3/30-,2020/3/30,,1+
+Singapore-877,Male,41,Malaysia,Singapore,,,,,,,2020/3/20-,2020/3/20,,0
+Singapore-878,Male,34,Singapore,Singapore,,,,,,,2020/3/30-,2020/3/30,,1+
+Singapore-879,Male,26,Singapore,Singapore,,,,,,,2020/3/30-,2020/3/30,,1+
+Singapore-880,Male,49,Singapore,Singapore,,,,,,,2020/3/30-,2020/3/30,,1+
+Singapore-881,Male,39,Singapore,Singapore,,,,,,,2020/3/30-,2020/3/30,,2+
+Singapore-882,Female,29,United Kingdom,Singapore,,,,,,,2020/3/30-,2020/3/30,,0
+Singapore-883,Female,21,United Kingdom,Singapore,,,,,,,2020/3/30-,2020/3/30,,0
+Singapore-884,Male,40,Singapore,Singapore,,,,,,,2020/3/30-,2020/3/30,,1+
+Singapore-885,Male,26,Denmark,Singapore,,,,,,,2020/3/30-,2020/3/30,,0
+Singapore-886,Male,36,Singapore,Singapore,,,,,,,2020/3/30-,2020/3/30,,1+
+Singapore-887,Male,62,Singapore,Singapore,,,,,,,2020/3/30-,2020/3/30,Singapore-857;,1
+Singapore-888,Male,24,United Kingdom,Singapore,,,,,,,2020/3/30-,2020/3/30,,0
+Singapore-889,Male,65,Singapore,Singapore,,,,,,,2020/3/30-,2020/3/30,,1+
+Singapore-890,Female,35,United Kingdom,Singapore,,,,,,,2020/3/30-,2020/3/30,,0
+Singapore-891,Male,21,Singapore,Singapore,,,,,,,2020/3/30-,2020/3/30,,1+
+Singapore-892,Male,24,Canada,Singapore,,,,,,,2020/3/30-,2020/3/30,,0
+Singapore-893,Female,44,Singapore,Singapore,,,,,,,2020/3/30-,2020/3/30,,1+
+Singapore-894,Male,27,Singapore,Singapore,,,,,,,2020/3/30-,2020/3/30,,1+
+Singapore-895,Male,43,Indonesia,Singapore,,,,,,,2020/3/30-,2020/3/30,,0
+Singapore-896,Female,29,Singapore,Singapore,,,,,,,2020/3/30-,2020/3/30,,1+
+Singapore-897,Male,33,Singapore,Singapore,,,,,,,2020/3/31-,2020/3/31,,1+
+Singapore-898,Male,53,Singapore,Singapore,,,,,,,2020/3/30-,2020/3/30,,1+
+Singapore-899,Male,33,Malaysia,Singapore,,,,,,,2020/3/30-,2020/3/30,,0
+Singapore-900,Male,30,Singapore,Singapore,,,,,,,2020/3/30-,2020/3/30,,1+
+Singapore-901,Female,54,Turkey,Singapore,,,,,,,2020/3/30-,2020/3/30,,0
+Singapore-902,Male,37,,Singapore,,,,,,,2020/3/30-,2020/3/30,,0
+Singapore-903,Female,27,Singapore,Singapore,,,,,,,2020/3/30-,2020/3/30,,1+
+Singapore-904,Male,49,Singapore,Singapore,,,,,,,2020/3/31-,2020/3/31,,1+
+Singapore-905,Female,22,United Kingdom,Singapore,,,,,,,2020/3/30-,2020/3/30,,0
+Singapore-906,Male,44,,Singapore,,,,,,,2020/3/30-,2020/3/30,,0
+Singapore-907,Male,50,Singapore,Singapore,,,,,,,2020/3/30-,2020/3/30,,1+
+Singapore-908,Male,36,Singapore,Singapore,,,,,,,2020/3/30-,2020/3/30,Singapore-788;,2+
+Singapore-909,Male,58,Singapore,Singapore,,,,,,,2020/3/30-,2020/3/30,,1+
+Singapore-910,Male,59,Singapore,Singapore,,,,,,,2020/3/31-,2020/3/31,,1+
+Singapore-911,Male,78,Singapore,Singapore,,,,,,,2020/3/31-,2020/3/31,,1+
+Singapore-912,Male,39,Singapore,Singapore,,,,,,,2020/3/31-,2020/3/31,,1+
+Singapore-913,Female,66,Australia,Singapore,,,,,,,2020/3/31-,2020/3/31,,0
+Singapore-914,Male,55,Singapore,Singapore,,,,,,,2020/3/31-,2020/3/31,Singapore-876;,2+
+Singapore-915,Male,24,United Kingdom,Singapore,,,,,,,2020/3/31-,2020/3/31,,0
+Singapore-916,Female,46,Singapore,Singapore,,,,,,,2020/3/31-,2020/3/31,Singapore-488;,1
+Singapore-917,Female,23,United Kingdom,Singapore,,,,,,,2020/3/31-,2020/3/31,,0
+Singapore-918,Female,86,Singapore,Singapore,,,,,,,2020/3/31-,2020/3/31,,1+
+Singapore-919,Male,56,Singapore,Singapore,,,,,,,2020/3/31-,2020/3/31,,1+
+Singapore-920,Female,55,Singapore,Singapore,,,,,,,2020/3/31-,2020/3/31,,1+
+Singapore-921,Male,32,Singapore,Singapore,,,,,,,2020/3/31-,2020/3/31,Singapore-891;,2+
+Singapore-922,Male,36,Singapore,Singapore,,,,,,,2020/3/31-,2020/3/31,,2+
+Singapore-923,Male,20,United Kingdom,Singapore,,,,,,,2020/3/31-,2020/3/31,,0
+Singapore-924,Male,34,Singapore,Singapore,,,,,,,2020/3/31-,2020/3/31,,2+
+Singapore-925,Male,33,Singapore,Singapore,,,,,,,2020/3/31-,2020/3/31,,2+
+Singapore-926,Male,33,Singapore,Singapore,,,,,,,2020/3/31-,2020/3/31,,2+
+Singapore-927,Female,61,Singapore,Singapore,,,,,,,2020/3/31-,2020/3/31,Singapore-889;,2+
+Singapore-928,Female,72,Indonesia,Singapore,,,,,,,2020/3/31-,2020/3/31,,0
+Singapore-929,Female,37,Singapore,Singapore,,,,,,,2020/3/31-,2020/3/31,,1+
+Singapore-930,Female,23,Singapore,Singapore,,,,,,,2020/3/31-,2020/3/31,,1+
+Singapore-931,Male,24,Singapore,Singapore,,,,,,,2020/3/31-,2020/3/31,,1+
+Singapore-932,Female,34,United Kingdom,Singapore,,,,,,,2020/3/31-,2020/3/31,,0
+Singapore-933,Male,31,Thailand,Singapore,,,,,,,2020/3/31-,2020/3/31,,0
+Singapore-934,Male,33,Singapore,Singapore,,,,,,,2020/3/31-,2020/3/31,,2+
+Singapore-935,Male,80,Singapore,Singapore,,,,,,,2020/3/31-,2020/3/31,Singapore-727;Singapore-863;,1
+Singapore-936,Male,63,Singapore,Singapore,,,,,,,2020/3/31-,2020/3/31,,1+
+Singapore-937,Male,42,Singapore,Singapore,,,,,,,2020/3/31-,2020/3/31,,1+
+Singapore-938,Male,64,India,Singapore,,,,,,,2020/3/31-,2020/3/31,,0
+Singapore-939,Male,35,Singapore,Singapore,,,,,,,2020/3/31-,2020/3/31,,1+
+Singapore-940,Male,36,Singapore,Singapore,,,,,,,2020/3/31-,2020/3/31,,2+
+Singapore-941,Female,52,Singapore,Singapore,,,,,,,2020/3/31-,2020/3/31,Singapore-888;,1
+Singapore-942,Male,58,Singapore,Singapore,,,,,,,2020/3/31-,2020/3/31,Singapore-889;Singapore-927;,2+
+Singapore-943,Male,31,Switzerland,Singapore,,,,,,,2020/3/31-,2020/3/31,,0
+Singapore-944,Female,35,Europe&United States,Singapore,,,,,,,2020/3/31-,2020/3/31,,0
+Singapore-945,Female,54,Singapore,Singapore,,,,,,,2020/3/31-,2020/3/31,,1+
+Singapore-946,Male,30,Singapore,Singapore,,,,,,,2020/3/31-,2020/3/31,,2+
+Singapore-947,Male,25,Singapore,Singapore,,,,,,,2020/3/31-,2020/3/31,,2+
+Singapore-948,Female,54,Singapore,Singapore,,,,,,,2020/3/31-,2020/3/31,,1+
+Singapore-949,Male,20,India,Singapore,,,,,,,2020/3/31-,2020/3/31,,0
+Singapore-950,Male,29,Europe,Singapore,,,,,,,2020/3/31-,2020/3/31,,0
+Singapore-951,Female,29,Singapore,Singapore,,,,,,,2020/3/30,2020/3/31,,1+
+Singapore-952,Female,37,,Singapore,,,,,,,2020/3/30,2020/3/31,,0
+Singapore-953,Male,51,Singapore,Singapore,,,,,,,2020/3/31-,2020/3/31,,1+
+Singapore-954,Female,53,United Kingdom,Singapore,,,,,,,2020/3/31-,2020/3/31,,0
+Singapore-955,Male,53,South Africa,Singapore,,,,,,,2020/3/31-,2020/3/31,,0
+Singapore-956,Male,32,Singapore,Singapore,,,,,,,2020/3/31-,2020/3/31,,1+
+Singapore-957,Female,73,Singapore,Singapore,,,,,,,2020/3/31-,2020/3/31,,1+
+Singapore-958,Male,41,Singapore,Singapore,,,,,,,2020/3/31-,2020/3/31,,1+
+Singapore-959,Female,41,Singapore,Singapore,,,,,,,2020/3/31-,2020/3/31,,1+
+Singapore-960,Female,22,United Kingdom & United States,Singapore,,,,,,,2020/3/31-,2020/3/31,,0
+Singapore-961,Female,21,United Kingdom,Singapore,,,,,,,2020/3/31-,2020/3/31,,0
+Singapore-962,Male,33,,Singapore,,,,,,,2020/3/31-,2020/3/31,,0
+Singapore-963,Male,26,Singapore,Singapore,,,,,,,2020/3/31-,2020/3/31,,1+
+Singapore-964,Male,37,Singapore,Singapore,,,,,,,2020/3/31-,2020/3/31,,1+
+Singapore-965,Female,34,Singapore,Singapore,,,,,,,2020/3/31-,2020/3/31,,1+
+Singapore-966,Male,25,Singapore,Singapore,,,,,,,2020/3/31-,2020/3/31,,2+

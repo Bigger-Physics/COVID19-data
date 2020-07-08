@@ -1,11 +1,11 @@
-The data of China are collected from publicly available official reports of case investigations, which were performed by investigators in the corresponding centers for
-disease control and prevention in each province. In general, the official reports are published on the official websites of Provincial Public Health Commissions (e.g., http://wsjk.tj.gov.cn), the official social media accounts of governmental or public health institutions (e.g, https://wx.hebnews.cn/xcgj/), or other news websites(e.g., https://www.sohu.com). The data of Singapore are collected from publicly available official reports of the Ministry of Health of Singapore (https://www.moh.gov.sg/covid-19/past-updates). 
+The data of China are collected from publicly available official reports of case investigations, which were performed by investigators in the corresponding centers for disease control and prevention in each province. In general, the official reports are published on the official websites of Provincial Public Health Commissions (e.g., http://wsjk.tj.gov.cn), the official social media accounts of governmental or public health institutions (e.g, https://wx.hebnews.cn/xcgj/), or other news websites(e.g., https://www.sohu.com). The data of Singapore are collected from publicly available official reports of the Ministry of Health of Singapore (https://www.moh.gov.sg/covid-19/past-updates). 
 
 A description of the fields in the database is shown as follows.
 
 ID: Unique identifier for reported case. It includes the information of Province and City, e.g. Hebei-Tangshan-5. Therefore, the data can also be used to investigate the evolution of Covid-19 in each city.
 
 age:Age of the case reported in years. When not reported, null is used.
+
 sex: Sex of the case. When not reported, null is used.
 
 city of being infected: City/country where the case may be exposed. 
